@@ -1,0 +1,18 @@
+app = "vl-r"
+primary_region = "sjc"
+
+[build]
+dockerfile = "Dockerfile"
+
+[[services]]
+internal_port = 443
+protocol = "tcp"
+
+  [[services.ports]]
+  port = 443
+  handlers = ["tls"]
+
+[[vm]]
+cpu_kind = "shared"
+cpus = 1
+memory_mb = 256

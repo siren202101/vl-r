@@ -1,0 +1,36 @@
+{
+  "log": {
+    "level": "info"
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "listen": "::",
+      "listen_port": 443,
+      "tag": "vless-in",
+      "users": [
+        {
+          "uuid": "3f02dc63-0ab2-4b93-bacc-5dd83020c53b",
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": "images-na.ssl-images-amazon.com",
+            "server_port": 443
+          },
+          "private_key": "iKdDJCrzytGEFxVbnRpgEqwKQzUMy6jAUP0JxVSgP04",
+          "short_id": ["agwegw"]
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct"
+    }
+  ]
+}
