@@ -1,0 +1,2923 @@
+ 
+-------------------------------------------------------------------------------
+ Tron v12.0.8 (2025-01-09)
+                          Windows 10 Pro (AMD64)
+                          Executing as "MS\cs201" on MS
+                          Logfile: C:\logs\tron\tron.log
+                          Command-line switches: 
+                          Time zone: 
+                          Safe Mode: no 
+                          Free space before Tron run: 0 MB
+-------------------------------------------------------------------------------
+~0,4DTS:~4,2DTS:~6,2 14:59:56.77 ! NOTE: Tron doesn't think the system has a network connection. Update checks were skipped.
+~0,4DTS:~4,2DTS:~6,2 14:59:56.94   stage_0_prep begin...
+~0,4DTS:~4,2DTS:~6,2 14:59:56.98    Temporarily stopping Themes service...
+~0,4DTS:~4,2DTS:~6,2 14:59:57.14    Done.
+~0,4DTS:~4,2DTS:~6,2 15:00:03.40    Creating pre-run Restore Point...
+~0,4DTS:~4,2DTS:~6,2 15:00:41.63    OK.
+~0,4DTS:~4,2DTS:~6,2 15:00:41.66    Saving desktop screenshot to "C:\logs\tron\raw_logs"...
+~0,4DTS:~4,2DTS:~6,2 15:00:44.95    Done.
+~0,4DTS:~4,2DTS:~6,2 15:00:45.05    Launch job 'rkill'...
+~0,4DTS:~4,2DTS:~6,2 15:00:45.17    If this job takes more than 20 minutes, kill solitaire.exe with Task Manager
+Rkill 2.9.1 by Lawrence Abrams (Grinler)
+http://www.bleepingcomputer.com/
+Copyright 2008-2025 BleepingComputer.com
+More Information about Rkill can be found at this link:
+ http://www.bleepingcomputer.com/forums/topic308364.html
+
+Program started at: 08/10/2025 03:00:49 PM in x64 mode.
+Windows Version: Windows 10 Pro 
+
+Whitelist file: C:\Users\cs201\Desktop\Tron not found.
+Operating without a whitelist.
+
+Checking for Windows services to stop:
+
+ * No malware services found to stop.
+
+Checking for processes to terminate:
+
+ * No malware processes found to kill.
+
+Checking Registry for malware related settings:
+
+ * No issues found in the Registry.
+
+Resetting .EXE, .COM, & .BAT associations in the Windows Registry.
+
+Performing miscellaneous checks:
+
+ * No issues found.
+
+Searching for Missing Digital Signatures: 
+
+ * No issues found.
+
+Checking HOSTS File: 
+
+ * No issues found.
+
+Program finished at: 08/10/2025 03:01:55 PM
+Execution time: 0 hours(s), 1 minute(s), and 6 seconds(s)
+~0,4DTS:~4,2DTS:~6,2 15:01:55.46    Done.
+~0,4DTS:~4,2DTS:~6,2 15:01:55.51    Generating pre-run system profile...
+~0,4DTS:~4,2DTS:~6,2 15:02:27.35    Done.
+~0,4DTS:~4,2DTS:~6,2 15:02:27.38    Dumping GUID list to "C:\logs\tron\raw_logs"...
+~0,4DTS:~4,2DTS:~6,2 15:02:27.45    Done.
+~0,4DTS:~4,2DTS:~6,2 15:02:27.51    Dumping Metro app list to "C:\logs\tron\raw_logs"...
+~0,4DTS:~4,2DTS:~6,2 15:02:27.56    Done.
+~0,4DTS:~4,2DTS:~6,2 15:02:27.61    Launch job 'Temporarily disable system sleep and screensaver'...
+~0,4DTS:~4,2DTS:~6,2 15:02:28.74    Done.
+~0,4DTS:~4,2DTS:~6,2 15:02:28.78    Launch Job 'ProcessKiller'...
+~0,4DTS:~4,2DTS:~6,2 15:03:15.88    Done.
+~0,4DTS:~4,2DTS:~6,2 15:03:15.92    Launch Job 'Set system clock via NTP'...
+[SC] ChangeServiceConfig ³É¹¦
+Windows Time ·şÎñÕıÔÚÍ£Ö¹.
+Windows Time ·şÎñÒÑ³É¹¦Í£Ö¹¡£
+
+ÏÂÁĞ²ÎÊıÊÇÒâÍâµÄ:
+ /syncfromswitches:manual
+Windows Time ·şÎñÕıÔÚÆô¶¯ .
+Windows Time ·şÎñÒÑ¾­Æô¶¯³É¹¦¡£
+
+½« resync ÃüÁî·¢ËÍµ½±¾µØ¼ÆËã»ú
+³É¹¦µØÖ´ĞĞÁËÃüÁî¡£
+~0,4DTS:~4,2DTS:~6,2 15:03:20.02    Done.
+~0,4DTS:~4,2DTS:~6,2 15:03:20.08    Launch job 'Check WMI health'...
+~0,4DTS:~4,2DTS:~6,2 15:03:20.14   WMI appears to be broken. Calling WMI repair sub-script.
+~0,4DTS:~4,2DTS:~6,2 15:03:20.19               This will take time, please be patient...
+~0,4DTS:~4,2DTS:~6,2 15:14:12.61    Done.
+~0,4DTS:~4,2DTS:~6,2 15:14:12.69    Launch job 'Back up registry' to "C:\logs\tron"...
+~0,4DTS:~4,2DTS:~6,2 15:14:27.97    Done.
+~0,4DTS:~4,2DTS:~6,2 15:14:28.09    Launch job 'Trellix Stinger'...
+~0,4DTS:~4,2DTS:~6,2 15:14:28.11    Stinger doesn't support text logs, saving HTML log to "C:\logs\tron\raw_logs\"
+~0,4DTS:~4,2DTS:~6,2 15:23:24.44    Done.
+~0,4DTS:~4,2DTS:~6,2 15:23:24.49    Launch job 'TDSS Killer'...
+15:23:27.0965 0x101c  TDSS rootkit removing tool 3.1.0.28 Apr  9 2019 21:11:46
+15:23:27.0965 0x101c  UEFI system
+15:23:27.0969 0x101c  ============================================================
+15:23:27.0971 0x101c  Current date / time: 2025/08/10 15:23:27.0969
+15:23:27.0971 0x101c  SystemInfo:
+15:23:27.0971 0x101c  
+15:23:27.0971 0x101c  OS Version: 10.0.26100 ServicePack: 0.0
+15:23:27.0971 0x101c  Product type: Workstation
+15:23:27.0971 0x101c  ComputerName: MS
+15:23:27.0981 0x101c  UserName: cs201
+15:23:27.0984 0x101c  Windows directory: C:\WINDOWS
+15:23:27.0984 0x101c  System windows directory: C:\WINDOWS
+15:23:27.0984 0x101c  Running under WOW64
+15:23:27.0984 0x101c  Processor architecture: Intel x64
+15:23:27.0984 0x101c  Number of processors: 4
+15:23:27.0984 0x101c  Page size: 0x1000
+15:23:27.0984 0x101c  Boot type: Normal boot
+15:23:27.0984 0x101c  CodeIntegrityOptions = 0x0000C005
+15:23:27.0984 0x101c  ============================================================
+15:23:31.0475 0x101c  KLMD registered as C:\WINDOWS\system32\drivers\06885774.sys
+15:23:33.0427 0x101c  System UUID: {86755E04-690A-EB36-D279-45371D1DF9F5}
+15:23:35.0301 0x101c  !crdlk
+15:23:35.0312 0x101c  Drive \Device\Harddisk0\DR0 - Size: 0xC80000000 ( 50.00 Gb ), SectorSize: 0x200, Cylinders: 0x197F, SectorsPerTrack: 0x3F, TracksPerCylinder: 0xFF, Type 'W'
+15:23:35.0315 0x101c  ============================================================
+15:23:35.0315 0x101c  \Device\Harddisk0\DR0:
+15:23:35.0315 0x101c  GPT partitions:
+15:23:35.0317 0x101c  \Device\Harddisk0\DR0\Partition1: GPT, TypeGUID: {C12A7328-F81F-11D2-BA4B-00A0C93EC93B}, UniqueGUID: {B5108C36-259D-4CCA-A443-6C1109A5DA4C}, Name: Basic data partition, StartLBA 0x800, BlocksNum 0x64000
+15:23:35.0317 0x101c  \Device\Harddisk0\DR0\Partition2: GPT, TypeGUID: {E3C9E316-0B5C-4DB8-817D-F92DF00215AE}, UniqueGUID: {4277615D-EC84-4FEB-8911-F3B7119DA578}, Name: Microsoft reserved partition, StartLBA 0x64800, BlocksNum 0x8000
+15:23:35.0317 0x101c  \Device\Harddisk0\DR0\Partition3: GPT, TypeGUID: {EBD0A0A2-B9E5-4433-87C0-68B6B72699C7}, UniqueGUID: {442DA430-69CF-41C5-BC47-06ADDACBCD12}, Name: Basic data partition, StartLBA 0x6C800, BlocksNum 0x6214000
+15:23:35.0317 0x101c  \Device\Harddisk0\DR0\Partition4: GPT, TypeGUID: {DE94BBA4-06D1-4D40-A16A-BFD50179D6AC}, UniqueGUID: {48531274-7BC6-4798-A0B6-B9C63E1AAE10}, Name: , StartLBA 0x6280800, BlocksNum 0x17E800
+15:23:35.0317 0x101c  MBR partitions:
+15:23:35.0317 0x101c  ============================================================
+15:23:35.0319 0x101c  Initialize success
+15:23:35.0319 0x101c  ============================================================
+15:23:36.0011 0x2734  ============================================================
+15:23:36.0011 0x2734  Scan started
+15:23:36.0011 0x2734  Mode: Auto (DCExact ); TDLFS; Silent; 
+15:23:36.0011 0x2734  ============================================================
+15:23:36.0011 0x2734  KSN ping started
+15:23:36.0475 0x2734  KSN ping finished: true
+15:23:36.0927 0x2734  ================ Scan BIOS =================================
+15:23:36.0927 0x2734  ================ Scan system memory ========================
+15:23:36.0927 0x2734  ================ Scan services =============================
+15:23:37.0232 0x2734  1394ohci - ok
+15:23:37.0281 0x2734  3ware - ok
+15:23:37.0345 0x2734  AarSvc - ok
+15:23:37.0415 0x2734  ACPI - ok
+15:23:37.0447 0x2734  AcpiDev - ok
+15:23:37.0491 0x2734  acpiex - ok
+15:23:37.0527 0x2734  acpipagr - ok
+15:23:37.0561 0x2734  AcpiPmi - ok
+15:23:37.0596 0x2734  acpitime - ok
+15:23:37.0637 0x2734  Acx01000 - ok
+15:23:37.0683 0x2734  ADP80XX - ok
+15:23:37.0746 0x2734  AFD - ok
+15:23:37.0857 0x2734  afunix - ok
+15:23:37.0968 0x2734  ahcache - ok
+15:23:38.0027 0x2734  ALG - ok
+15:23:38.0056 0x2734  amdgpio2 - ok
+15:23:38.0086 0x2734  amdi2c - ok
+15:23:38.0120 0x2734  AmdK8 - ok
+15:23:38.0150 0x2734  AmdPPM - ok
+15:23:38.0182 0x2734  amdsata - ok
+15:23:38.0215 0x2734  amdsbs - ok
+15:23:38.0250 0x2734  amdwps - ok
+15:23:38.0284 0x2734  amdxata - ok
+15:23:38.0350 0x2734  AppID - ok
+15:23:38.0422 0x2734  AppIDSvc - ok
+15:23:38.0478 0x2734  Appinfo - ok
+15:23:38.0510 0x2734  AppleSSD - ok
+15:23:38.0559 0x2734  applockerfltr - ok
+15:23:38.0637 0x2734  AppMgmt - ok
+15:23:38.0705 0x2734  AppReadiness - ok
+15:23:38.0751 0x2734  AppVClient - ok
+15:23:38.0799 0x2734  AppvStrm - ok
+15:23:38.0864 0x2734  AppvVemgr - ok
+15:23:38.0910 0x2734  AppvVfs - ok
+15:23:38.0961 0x2734  AppXSvc - ok
+15:23:39.0024 0x2734  ApxSvc - ok
+15:23:39.0055 0x2734  arcsas - ok
+15:23:39.0107 0x2734  AssignedAccessManagerSvc - ok
+15:23:39.0135 0x2734  AsyncMac - ok
+15:23:39.0163 0x2734  atapi - ok
+15:23:39.0213 0x2734  AudioEndpointBuilder - ok
+15:23:39.0271 0x2734  Audiosrv - ok
+15:23:39.0334 0x2734  autotimesvc - ok
+15:23:39.0406 0x2734  AxInstSV - ok
+15:23:39.0434 0x2734  b06bdrv - ok
+15:23:39.0460 0x2734  BALLOON - ok
+15:23:39.0497 0x2734  bam - ok
+15:23:39.0535 0x2734  BasicDisplay - ok
+15:23:39.0570 0x2734  BasicRender - ok
+15:23:39.0648 0x2734  BcastDVRUserService - ok
+15:23:39.0700 0x2734  bcmfn2 - ok
+15:23:39.0748 0x2734  BDESVC - ok
+15:23:39.0777 0x2734  Beep - ok
+15:23:39.0848 0x2734  BFE - ok
+15:23:39.0885 0x2734  bfs - ok
+15:23:39.0923 0x2734  bindflt - ok
+15:23:39.0964 0x2734  BITS - ok
+15:23:40.0004 0x2734  BluetoothUserService - ok
+15:23:40.0064 0x2734  bowser - ok
+15:23:40.0118 0x2734  BrokerInfrastructure - ok
+15:23:40.0163 0x2734  BTAGService - ok
+15:23:40.0189 0x2734  BthA2dp - ok
+15:23:40.0249 0x2734  BthAvctpSvc - ok
+15:23:40.0277 0x2734  BthEnum - ok
+15:23:40.0313 0x2734  BthHFEnum - ok
+15:23:40.0343 0x2734  BthLEEnum - ok
+15:23:40.0369 0x2734  BthMini - ok
+15:23:40.0395 0x2734  BTHMODEM - ok
+15:23:40.0419 0x2734  BTHPORT - ok
+15:23:40.0461 0x2734  bthserv - ok
+15:23:40.0486 0x2734  BTHUSB - ok
+15:23:40.0512 0x2734  bttflt - ok
+15:23:40.0538 0x2734  buttonconverter - ok
+15:23:40.0568 0x2734  CAD - ok
+15:23:40.0621 0x2734  camsvc - ok
+15:23:40.0667 0x2734  CaptureService - ok
+15:23:40.0743 0x2734  cbdhsvc - ok
+15:23:40.0804 0x2734  CDD - ok
+15:23:40.0846 0x2734  cdfs - ok
+15:23:40.0896 0x2734  CDPSvc - ok
+15:23:40.0938 0x2734  CDPUserSvc - ok
+15:23:40.0990 0x2734  cdrom - ok
+15:23:41.0043 0x2734  CertPropSvc - ok
+15:23:41.0071 0x2734  cht4iscsi - ok
+15:23:41.0095 0x2734  cht4vbd - ok
+15:23:41.0127 0x2734  CimFS - ok
+15:23:41.0149 0x2734  circlass - ok
+15:23:41.0186 0x2734  CldFlt - ok
+15:23:41.0220 0x2734  CLFS - ok
+15:23:41.0274 0x2734  ClipSVC - ok
+15:23:41.0338 0x2734  CloudBackupRestoreSvc - ok
+15:23:41.0445 0x2734  cloudidsvc - ok
+15:23:41.0606 0x2734  CmBatt - ok
+15:23:41.0646 0x2734  CNG - ok
+15:23:41.0686 0x2734  cnghwassist - ok
+15:23:41.0716 0x2734  CompositeBus - ok
+15:23:41.0766 0x2734  COMSysApp - ok
+15:23:41.0804 0x2734  condrv - ok
+15:23:41.0896 0x2734  ConsentUxUserSvc - ok
+15:23:41.0994 0x2734  CoreMessagingRegistrar - ok
+15:23:42.0056 0x2734  CredentialEnrollmentManagerUserSvc - ok
+15:23:42.0123 0x2734  CredentialEnrollmentManagerUserSvc_236ba2 - ok
+15:23:42.0242 0x2734  CryptSvc - ok
+15:23:42.0287 0x2734  CSC - ok
+15:23:42.0357 0x2734  CscService - ok
+15:23:42.0415 0x2734  dam - ok
+15:23:42.0497 0x2734  DcomLaunch - ok
+15:23:42.0560 0x2734  dcsvc - ok
+15:23:42.0632 0x2734  defragsvc - ok
+15:23:42.0690 0x2734  DeviceAssociationBrokerSvc - ok
+15:23:42.0770 0x2734  DeviceAssociationService - ok
+15:23:42.0836 0x2734  DeviceInstall - ok
+15:23:42.0925 0x2734  DevicePickerUserSvc - ok
+15:23:43.0080 0x2734  DevicesFlowUserSvc - ok
+15:23:43.0198 0x2734  devmap - ok
+15:23:43.0251 0x2734  DevQueryBroker - ok
+15:23:43.0297 0x2734  Dfsc - ok
+15:23:43.0360 0x2734  Dhcp - ok
+15:23:43.0428 0x2734  diagsvc - ok
+15:23:43.0488 0x2734  DiagTrack - ok
+15:23:43.0544 0x2734  DialogBlockingService - ok
+15:23:43.0577 0x2734  disk - ok
+15:23:43.0635 0x2734  DispBrokerDesktopSvc - ok
+15:23:43.0697 0x2734  DisplayEnhancementService - ok
+15:23:43.0725 0x2734  DisplayMux - ok
+15:23:43.0784 0x2734  DmEnrollmentSvc - ok
+15:23:43.0814 0x2734  dmvsc - ok
+15:23:43.0882 0x2734  dmwappushservice - ok
+15:23:43.0946 0x2734  Dnscache - ok
+15:23:44.0062 0x2734  dot3svc - ok
+15:23:44.0117 0x2734  DPS - ok
+15:23:44.0145 0x2734  drmkaud - ok
+15:23:44.0199 0x2734  DsmSvc - ok
+15:23:44.0261 0x2734  DsSvc - ok
+15:23:44.0313 0x2734  DusmSvc - ok
+15:23:44.0379 0x2734  DXGKrnl - ok
+15:23:44.0441 0x2734  EapHost - ok
+15:23:44.0473 0x2734  ebdrv - ok
+15:23:44.0507 0x2734  ebdrv0 - ok
+15:23:44.0566 0x2734  edgeupdate - ok
+15:23:44.0616 0x2734  edgeupdatem - ok
+15:23:44.0658 0x2734  EFS - ok
+15:23:44.0701 0x2734  EhStorClass - ok
+15:23:44.0737 0x2734  EhStorTcgDrv - ok
+15:23:44.0807 0x2734  embeddedmode - ok
+15:23:44.0875 0x2734  EntAppSvc - ok
+15:23:44.0911 0x2734  ErrDev - ok
+15:23:44.0993 0x2734  EventLog - ok
+15:23:45.0057 0x2734  EventSystem - ok
+15:23:45.0101 0x2734  ExecutionContext - ok
+15:23:45.0141 0x2734  exfat - ok
+15:23:45.0182 0x2734  fastfat - ok
+15:23:45.0232 0x2734  fdc - ok
+15:23:45.0363 0x2734  fdPHost - ok
+15:23:45.0439 0x2734  FDResPub - ok
+15:23:45.0497 0x2734  fhsvc - ok
+15:23:45.0550 0x2734  FileCrypt - ok
+15:23:45.0606 0x2734  FileInfo - ok
+15:23:45.0652 0x2734  Filetrace - ok
+15:23:45.0690 0x2734  flpydisk - ok
+15:23:45.0736 0x2734  FltMgr - ok
+15:23:45.0792 0x2734  FontCache - ok
+15:23:45.0840 0x2734  FontCache3.0.0.0 - ok
+15:23:45.0893 0x2734  FrameServer - ok
+15:23:45.0945 0x2734  FrameServerMonitor - ok
+15:23:45.0994 0x2734  FsDepends - ok
+15:23:46.0024 0x2734  Fs_Rec - ok
+15:23:46.0061 0x2734  fvevol - ok
+15:23:46.0093 0x2734  FwCfg - ok
+15:23:46.0133 0x2734  GameInputSvc - ok
+15:23:46.0161 0x2734  gencounter - ok
+15:23:46.0187 0x2734  genericusbfn - ok
+15:23:46.0215 0x2734  GenPass - ok
+15:23:46.0252 0x2734  GPIOClx0101 - ok
+15:23:46.0302 0x2734  gpsvc - ok
+15:23:46.0364 0x2734  GraphicsPerfSvc - ok
+15:23:46.0396 0x2734  HdAudAddService - ok
+15:23:46.0423 0x2734  HDAudBus - ok
+15:23:46.0454 0x2734  HidBatt - ok
+15:23:46.0486 0x2734  HidBth - ok
+15:23:46.0514 0x2734  hidi2c - ok
+15:23:46.0544 0x2734  hidinterrupt - ok
+15:23:46.0573 0x2734  HidIr - ok
+15:23:46.0621 0x2734  hidserv - ok
+15:23:46.0651 0x2734  hidspi - ok
+15:23:46.0685 0x2734  HidSpiCx - ok
+15:23:46.0712 0x2734  HidUsb - ok
+15:23:46.0766 0x2734  hpatchmon - ok
+15:23:46.0792 0x2734  HpSAMD - ok
+15:23:46.0818 0x2734  Hsp - ok
+15:23:46.0858 0x2734  HTTP - ok
+15:23:46.0890 0x2734  hvcrash - ok
+15:23:46.0937 0x2734  HvHost - ok
+15:23:46.0963 0x2734  hvservice - ok
+15:23:47.0001 0x2734  HwNClx0101 - ok
+15:23:47.0035 0x2734  hwpolicy - ok
+15:23:47.0059 0x2734  hyperkbd - ok
+15:23:47.0085 0x2734  HyperVideo - ok
+15:23:47.0110 0x2734  I3CHost - ok
+15:23:47.0136 0x2734  i8042prt - ok
+15:23:47.0162 0x2734  iagpio - ok
+15:23:47.0188 0x2734  iai2c - ok
+15:23:47.0214 0x2734  iaLPSS2i_GPIO2 - ok
+15:23:47.0246 0x2734  iaLPSS2i_GPIO2_BXT_P - ok
+15:23:47.0272 0x2734  iaLPSS2i_GPIO2_CNL - ok
+15:23:47.0298 0x2734  iaLPSS2i_GPIO2_GLK - ok
+15:23:47.0323 0x2734  iaLPSS2i_I2C - ok
+15:23:47.0351 0x2734  iaLPSS2i_I2C_BXT_P - ok
+15:23:47.0379 0x2734  iaLPSS2i_I2C_CNL - ok
+15:23:47.0405 0x2734  iaLPSS2i_I2C_GLK - ok
+15:23:47.0431 0x2734  iaLPSSi_GPIO - ok
+15:23:47.0459 0x2734  iaLPSSi_I2C - ok
+15:23:47.0505 0x2734  iaStorAVC - ok
+15:23:47.0534 0x2734  iaStorV - ok
+15:23:47.0560 0x2734  ibbus - ok
+15:23:47.0612 0x2734  icssvc - ok
+15:23:47.0662 0x2734  IKEEXT - ok
+15:23:47.0697 0x2734  IndirectKmd - ok
+15:23:47.0759 0x2734  InstallService - ok
+15:23:47.0789 0x2734  intelide - ok
+15:23:47.0817 0x2734  intelpep - ok
+15:23:47.0844 0x2734  intelpmax - ok
+15:23:47.0870 0x2734  IntelPMT - ok
+15:23:47.0896 0x2734  intelppm - ok
+15:23:47.0946 0x2734  InventorySvc - ok
+15:23:47.0980 0x2734  iorate - ok
+15:23:48.0016 0x2734  IpFilterDriver - ok
+15:23:48.0067 0x2734  iphlpsvc - ok
+15:23:48.0093 0x2734  IPMIDRV - ok
+15:23:48.0127 0x2734  IPNAT - ok
+15:23:48.0155 0x2734  IPT - ok
+15:23:48.0200 0x2734  IpxlatCfgSvc - ok
+15:23:48.0226 0x2734  isapnp - ok
+15:23:48.0260 0x2734  iScsiPrt - ok
+15:23:48.0290 0x2734  ItSas35i - ok
+15:23:48.0318 0x2734  kbdclass - ok
+15:23:48.0350 0x2734  kbdhid - ok
+15:23:48.0390 0x2734  kbldfltr - ok
+15:23:48.0417 0x2734  kdnic - ok
+15:23:48.0444 0x2734  kdnic_legacy - ok
+15:23:48.0483 0x2734  KeyIso - ok
+15:23:48.0521 0x2734  KSecDD - ok
+15:23:48.0559 0x2734  KSecPkg - ok
+15:23:48.0585 0x2734  KslD - ok
+15:23:48.0615 0x2734  ksthunk - ok
+15:23:48.0660 0x2734  KtmRm - ok
+15:23:48.0706 0x2734  LanmanServer - ok
+15:23:48.0766 0x2734  LanmanWorkstation - ok
+15:23:48.0840 0x2734  lfsvc - ok
+15:23:48.0899 0x2734  LicenseManager - ok
+15:23:48.0939 0x2734  lltdio - ok
+15:23:48.0991 0x2734  lltdsvc - ok
+15:23:49.0055 0x2734  lmhosts - ok
+15:23:49.0101 0x2734  LocalKdc - ok
+15:23:49.0129 0x2734  LSI_SAS - ok
+15:23:49.0157 0x2734  LSI_SAS2i - ok
+15:23:49.0182 0x2734  LSI_SAS3i - ok
+15:23:49.0234 0x2734  LSM - ok
+15:23:49.0284 0x2734  luafv - ok
+15:23:49.0332 0x2734  LxpSvc - ok
+15:23:49.0409 0x2734  MapsBroker - ok
+15:23:49.0443 0x2734  mausbhost - ok
+15:23:49.0475 0x2734  mausbip - ok
+15:23:49.0525 0x2734  MbbCx - ok
+15:23:49.0591 0x2734  McmSvc - ok
+15:23:49.0653 0x2734  McpManagementService - ok
+15:23:49.0669 0x2734  Suspicious service (Hidden): McShield
+15:23:49.0709 0x2734  McShield - detected HiddenService.Multi.Generic ( 1 )
+15:23:49.0846 0x2734  McShield ( HiddenService.Multi.Generic ) - warning
+15:23:50.0104 0x2734  MDCoreSvc - ok
+15:23:50.0134 0x2734  megasas2i - ok
+15:23:50.0164 0x2734  megasas35i - ok
+15:23:50.0194 0x2734  megasr - ok
+15:23:50.0248 0x2734  MessagingService - ok
+15:23:50.0322 0x2734  mfeaack - ok
+15:23:50.0357 0x2734  mfeaacsk - ok
+15:23:50.0400 0x2734  mfeavfk - ok
+15:23:50.0453 0x2734  mfeelamk - ok
+15:23:50.0477 0x2734  Suspicious service (Hidden): mfefire
+15:23:50.0518 0x2734  mfefire - detected HiddenService.Multi.Generic ( 1 )
+15:23:50.0518 0x2734  mfefire ( HiddenService.Multi.Generic ) - warning
+15:23:50.0606 0x2734  mfefirek - ok
+15:23:50.0638 0x2734  mfehck - ok
+15:23:50.0665 0x2734  mfehidk - ok
+15:23:50.0699 0x2734  mfemms - ok
+15:23:50.0729 0x2734  mfeplk - ok
+15:23:50.0759 0x2734  mferkdet - ok
+15:23:50.0835 0x2734  mfewfpk - ok
+15:23:50.0879 0x2734  MicrosoftEdgeElevationService - ok
+15:23:50.0917 0x2734  Microsoft_Bluetooth_AvrcpTransport - ok
+15:23:50.0949 0x2734  mlx4_bus - ok
+15:23:50.0985 0x2734  MMCSS - ok
+15:23:51.0023 0x2734  Modem - ok
+15:23:51.0057 0x2734  monitor - ok
+15:23:51.0086 0x2734  mouclass - ok
+15:23:51.0114 0x2734  mouhid - ok
+15:23:51.0148 0x2734  mountmgr - ok
+15:23:51.0180 0x2734  mpi3drvi - ok
+15:23:51.0216 0x2734  mpsdrv - ok
+15:23:51.0269 0x2734  mpssvc - ok
+15:23:51.0309 0x2734  MRxDAV - ok
+15:23:51.0347 0x2734  mrxsmb - ok
+15:23:51.0403 0x2734  mrxsmb20 - ok
+15:23:51.0443 0x2734  MsBridge - ok
+15:23:51.0488 0x2734  MSDTC - ok
+15:23:51.0544 0x2734  Msfs - ok
+15:23:51.0570 0x2734  msgpiowin32 - ok
+15:23:51.0596 0x2734  mshidkmdf - ok
+15:23:51.0621 0x2734  mshidumdf - ok
+15:23:51.0649 0x2734  msisadrv - ok
+15:23:51.0705 0x2734  MSiSCSI - ok
+15:23:51.0761 0x2734  msiserver - ok
+15:23:51.0815 0x2734  MsKeyboardFilter - ok
+15:23:51.0854 0x2734  MSKSSRV - ok
+15:23:51.0897 0x2734  MsLldp - ok
+15:23:51.0927 0x2734  MSPCLOCK - ok
+15:23:51.0958 0x2734  MSPQM - ok
+15:23:51.0999 0x2734  MsQuic - ok
+15:23:52.0036 0x2734  MsQuicPrev - ok
+15:23:52.0067 0x2734  MsRPC - ok
+15:23:52.0111 0x2734  MsSecCore - ok
+15:23:52.0159 0x2734  MsSecFlt - ok
+15:23:52.0198 0x2734  MsSecWfp - ok
+15:23:52.0226 0x2734  mssmbios - ok
+15:23:52.0272 0x2734  MSTEE - ok
+15:23:52.0308 0x2734  MTConfig - ok
+15:23:52.0364 0x2734  Mup - ok
+15:23:52.0395 0x2734  mvumis - ok
+15:23:52.0447 0x2734  NativeWifiP - ok
+15:23:52.0499 0x2734  NaturalAuthentication - ok
+15:23:52.0551 0x2734  NcaSvc - ok
+15:23:52.0612 0x2734  NcbService - ok
+15:23:52.0679 0x2734  NcdAutoSetup - ok
+15:23:52.0710 0x2734  ndfltr - ok
+15:23:52.0758 0x2734  NDIS - ok
+15:23:52.0804 0x2734  NdisCap - ok
+15:23:52.0856 0x2734  NdisImPlatform - ok
+15:23:52.0897 0x2734  NdisTapi - ok
+15:23:52.0940 0x2734  Ndisuio - ok
+15:23:52.0976 0x2734  NdisVirtualBus - ok
+15:23:53.0023 0x2734  NdisWan - ok
+15:23:53.0067 0x2734  ndiswanlegacy - ok
+15:23:53.0107 0x2734  NDKPerf - ok
+15:23:53.0147 0x2734  NDKPing - ok
+15:23:53.0189 0x2734  ndproxy - ok
+15:23:53.0275 0x2734  Ndu - ok
+15:23:53.0366 0x2734  NetAdapterCx - ok
+15:23:53.0442 0x2734  NetBIOS - ok
+15:23:53.0547 0x2734  NetBT - ok
+15:23:53.0582 0x2734  netkvm - ok
+15:23:53.0662 0x2734  Netlogon - ok
+15:23:53.0722 0x2734  Netman - ok
+15:23:53.0778 0x2734  netprofm - ok
+15:23:53.0834 0x2734  NetSetupSvc - ok
+15:23:53.0892 0x2734  NetTcpPortSharing - ok
+15:23:53.0932 0x2734  netvsc - ok
+15:23:53.0964 0x2734  NetworkPrivacyPolicy - ok
+15:23:54.0033 0x2734  NgcCtnrSvc - ok
+15:23:54.0089 0x2734  NgcSvc - ok
+15:23:54.0155 0x2734  NlaSvc - ok
+15:23:54.0189 0x2734  Npfs - ok
+15:23:54.0242 0x2734  NPSMSvc - ok
+15:23:54.0310 0x2734  npsvctrig - ok
+15:23:54.0376 0x2734  nsi - ok
+15:23:54.0412 0x2734  nsiproxy - ok
+15:23:54.0458 0x2734  Ntfs - ok
+15:23:54.0490 0x2734  Null - ok
+15:23:54.0517 0x2734  nvdimm - ok
+15:23:54.0545 0x2734  nvmedisk - ok
+15:23:54.0571 0x2734  nvraid - ok
+15:23:54.0599 0x2734  nvstor - ok
+15:23:54.0647 0x2734  OneSyncSvc - ok
+15:23:54.0732 0x2734  P9Rdr - ok
+15:23:54.0780 0x2734  P9RdrService - ok
+15:23:54.0838 0x2734  Parport - ok
+15:23:54.0876 0x2734  partmgr - ok
+15:23:54.0927 0x2734  PcaSvc - ok
+15:23:54.0953 0x2734  pci - ok
+15:23:54.0983 0x2734  pciide - ok
+15:23:55.0013 0x2734  pcmcia - ok
+15:23:55.0051 0x2734  pcw - ok
+15:23:55.0088 0x2734  pdc - ok
+15:23:55.0122 0x2734  PEAUTH - ok
+15:23:55.0176 0x2734  PeerDistSvc - ok
+15:23:55.0226 0x2734  PenService - ok
+15:23:55.0307 0x2734  perceptionsimulation - ok
+15:23:55.0333 0x2734  percsas2i - ok
+15:23:55.0365 0x2734  percsas3i - ok
+15:23:55.0424 0x2734  PerfHost - ok
+15:23:55.0552 0x2734  PhoneSvc - ok
+15:23:55.0612 0x2734  PimIndexMaintenanceSvc - ok
+15:23:55.0676 0x2734  PktMon - ok
+15:23:55.0708 0x2734  PktMonApi - ok
+15:23:55.0769 0x2734  pla - ok
+15:23:55.0821 0x2734  PlugPlay - ok
+15:23:55.0853 0x2734  PlutonHeci - ok
+15:23:55.0885 0x2734  PlutonHsp2 - ok
+15:23:55.0911 0x2734  pmem - ok
+15:23:55.0938 0x2734  PNPMEM - ok
+15:23:55.0990 0x2734  PolicyAgent - ok
+15:23:56.0030 0x2734  portcfg - ok
+15:23:56.0096 0x2734  Power - ok
+15:23:56.0124 0x2734  PptpMiniport - ok
+15:23:56.0173 0x2734  PrintDeviceConfigurationService - ok
+15:23:56.0205 0x2734  PrintNotify - ok
+15:23:56.0267 0x2734  PrintScanBrokerService - ok
+15:23:56.0318 0x2734  PrintWorkflowUserSvc - ok
+15:23:56.0374 0x2734  PRM - ok
+15:23:56.0404 0x2734  Processor - ok
+15:23:56.0464 0x2734  ProfSvc - ok
+15:23:56.0504 0x2734  Psched - ok
+15:23:56.0555 0x2734  PushToInstall - ok
+15:23:56.0594 0x2734  pvscsi - ok
+15:23:56.0651 0x2734  QWAVE - ok
+15:23:56.0689 0x2734  QWAVEdrv - ok
+15:23:56.0717 0x2734  Ramdisk - ok
+15:23:56.0755 0x2734  RasAcd - ok
+15:23:56.0785 0x2734  RasAgileVpn - ok
+15:23:56.0840 0x2734  RasAuto - ok
+15:23:56.0874 0x2734  Rasl2tp - ok
+15:23:56.0932 0x2734  RasMan - ok
+15:23:56.0962 0x2734  RasPppoe - ok
+15:23:56.0987 0x2734  RasSstp - ok
+15:23:57.0031 0x2734  rdbss - ok
+15:23:57.0089 0x2734  rdpbus - ok
+15:23:57.0125 0x2734  RDPDR - ok
+15:23:57.0182 0x2734  rdyboost - ok
+15:23:57.0218 0x2734  ReFS - ok
+15:23:57.0258 0x2734  refsdedupsvc - ok
+15:23:57.0292 0x2734  ReFSv1 - ok
+15:23:57.0353 0x2734  RemoteAccess - ok
+15:23:57.0409 0x2734  RemoteRegistry - ok
+15:23:57.0461 0x2734  RetailDemo - ok
+15:23:57.0489 0x2734  RFCOMM - ok
+15:23:57.0515 0x2734  rhproxy - ok
+15:23:57.0566 0x2734  RmSvc - ok
+15:23:57.0596 0x2734  RoutePolicy - ok
+15:23:57.0646 0x2734  RpcEptMapper - ok
+15:23:57.0690 0x2734  RpcLocator - ok
+15:23:57.0747 0x2734  RpcSs - ok
+15:23:57.0787 0x2734  rspndr - ok
+15:23:57.0819 0x2734  s3cap - ok
+15:23:57.0870 0x2734  SamSs - ok
+15:23:57.0902 0x2734  sbp2port - ok
+15:23:57.0956 0x2734  SCardSvr - ok
+15:23:58.0006 0x2734  ScDeviceEnum - ok
+15:23:58.0045 0x2734  scfilter - ok
+15:23:58.0115 0x2734  Schedule - ok
+15:23:58.0143 0x2734  scmbus - ok
+15:23:58.0193 0x2734  SCPolicySvc - ok
+15:23:58.0225 0x2734  sdbus - ok
+15:23:58.0289 0x2734  SDRSVC - ok
+15:23:58.0317 0x2734  sdstor - ok
+15:23:58.0379 0x2734  seclogon - ok
+15:23:58.0433 0x2734  SecurityHealthService - ok
+15:23:58.0495 0x2734  SEMgrSvc - ok
+15:23:58.0558 0x2734  SENS - ok
+15:23:58.0609 0x2734  Sense - ok
+15:23:58.0652 0x2734  SensorDataService - ok
+15:23:58.0706 0x2734  SensorService - ok
+15:23:58.0760 0x2734  SensrSvc - ok
+15:23:58.0801 0x2734  SerCx - ok
+15:23:58.0842 0x2734  SerCx2 - ok
+15:23:58.0888 0x2734  Serenum - ok
+15:23:58.0928 0x2734  Serial - ok
+15:23:58.0962 0x2734  sermouse - ok
+15:23:59.0075 0x2734  SessionEnv - ok
+15:23:59.0111 0x2734  sfloppy - ok
+15:23:59.0173 0x2734  SharedAccess - ok
+15:23:59.0227 0x2734  ShellHWDetection - ok
+15:23:59.0286 0x2734  shpamsvc - ok
+15:23:59.0320 0x2734  SiSRaid2 - ok
+15:23:59.0350 0x2734  SiSRaid4 - ok
+15:23:59.0394 0x2734  SIVDriver - ok
+15:23:59.0424 0x2734  SmartSAMD - ok
+15:23:59.0461 0x2734  smbdirect - ok
+15:23:59.0525 0x2734  smphost - ok
+15:23:59.0585 0x2734  SmsRouter - ok
+15:23:59.0669 0x2734  SNMPTrap - ok
+15:23:59.0711 0x2734  spaceparser - ok
+15:23:59.0743 0x2734  spaceport - ok
+15:23:59.0792 0x2734  SpbCx - ok
+15:23:59.0846 0x2734  Spooler - ok
+15:23:59.0910 0x2734  sppsvc - ok
+15:23:59.0960 0x2734  srv2 - ok
+15:23:59.0999 0x2734  srvnet - ok
+15:24:00.0097 0x2734  SSDPSRV - ok
+15:24:00.0141 0x2734  ssh-agent - ok
+15:24:00.0196 0x2734  SstpSvc - ok
+15:24:00.0252 0x2734  StateRepository - ok
+15:24:00.0289 0x2734  stexstor - ok
+15:24:00.0402 0x2734  StiSvc - ok
+15:24:00.0441 0x2734  storahci - ok
+15:24:00.0474 0x2734  storflt - ok
+15:24:00.0507 0x2734  stornvme - ok
+15:24:00.0555 0x2734  storqosflt - ok
+15:24:00.0652 0x2734  StorSvc - ok
+15:24:00.0695 0x2734  storufs - ok
+15:24:00.0730 0x2734  storvsc - ok
+15:24:00.0798 0x2734  svsvc - ok
+15:24:00.0844 0x2734  swenum - ok
+15:24:00.0907 0x2734  swprv - ok
+15:24:00.0975 0x2734  SysMain - ok
+15:24:01.0043 0x2734  SystemEventsBroker - ok
+15:24:01.0103 0x2734  TapiSrv - ok
+15:24:01.0146 0x2734  Tcpip - ok
+15:24:01.0197 0x2734  Tcpip6 - ok
+15:24:01.0272 0x2734  tcpipreg - ok
+15:24:01.0352 0x2734  tdx - ok
+15:24:01.0401 0x2734  terminpt - ok
+15:24:01.0459 0x2734  TermService - ok
+15:24:01.0515 0x2734  TextInputManagementService - ok
+15:24:01.0593 0x2734  Themes - ok
+15:24:01.0627 0x2734  ThermalFilter - ok
+15:24:01.0677 0x2734  TieringEngineService - ok
+15:24:01.0745 0x2734  TimeBrokerSvc - ok
+15:24:01.0805 0x2734  TokenBroker - ok
+15:24:01.0849 0x2734  TPM - ok
+15:24:01.0928 0x2734  TrkWks - ok
+15:24:01.0980 0x2734  TroubleshootingSvc - ok
+15:24:02.0042 0x2734  TrustedInstaller - ok
+15:24:02.0106 0x2734  TsUsbFlt - ok
+15:24:02.0138 0x2734  TsUsbGD - ok
+15:24:02.0171 0x2734  tsusbhub - ok
+15:24:02.0213 0x2734  tunnel - ok
+15:24:02.0263 0x2734  tzautoupdate - ok
+15:24:02.0303 0x2734  UASPStor - ok
+15:24:02.0343 0x2734  UcmCx0101 - ok
+15:24:02.0421 0x2734  UcmTcpciCx0101 - ok
+15:24:02.0471 0x2734  UcmUcsiAcpiClient - ok
+15:24:02.0526 0x2734  UcmUcsiCx0101 - ok
+15:24:02.0579 0x2734  UCPD - ok
+15:24:02.0639 0x2734  Ucx01000 - ok
+15:24:02.0683 0x2734  UdeCx - ok
+15:24:02.0725 0x2734  udfs - ok
+15:24:02.0775 0x2734  UdkUserSvc - ok
+15:24:02.0843 0x2734  UEFI - ok
+15:24:02.0893 0x2734  UevAgentDriver - ok
+15:24:02.0959 0x2734  UevAgentService - ok
+15:24:02.0999 0x2734  Ufx01000 - ok
+15:24:03.0027 0x2734  UfxChipidea - ok
+15:24:03.0056 0x2734  ufxsynopsys - ok
+15:24:03.0130 0x2734  uiomap - ok
+15:24:03.0162 0x2734  umbus - ok
+15:24:03.0200 0x2734  UmPass - ok
+15:24:03.0262 0x2734  UmRdpService - ok
+15:24:03.0308 0x2734  UnionFS - ok
+15:24:03.0371 0x2734  UnistoreSvc - ok
+15:24:03.0483 0x2734  upnphost - ok
+15:24:03.0517 0x2734  UrsChipidea - ok
+15:24:03.0561 0x2734  UrsCx01000 - ok
+15:24:03.0624 0x2734  UrsSynopsys - ok
+15:24:03.0674 0x2734  usb-platformdetection - ok
+15:24:03.0724 0x2734  Usb4DeviceRouter - ok
+15:24:03.0778 0x2734  Usb4HostRouter - ok
+15:24:03.0834 0x2734  usbaudio - ok
+15:24:03.0892 0x2734  usbaudio2 - ok
+15:24:03.0924 0x2734  usbccgp - ok
+15:24:03.0965 0x2734  usbcir - ok
+15:24:03.0997 0x2734  usbehci - ok
+15:24:04.0028 0x2734  usbhub - ok
+15:24:04.0062 0x2734  USBHUB3 - ok
+15:24:04.0098 0x2734  usbohci - ok
+15:24:04.0132 0x2734  usbprint - ok
+15:24:04.0162 0x2734  usbser - ok
+15:24:04.0194 0x2734  USBSTOR - ok
+15:24:04.0226 0x2734  usbuhci - ok
+15:24:04.0266 0x2734  USBXHCI - ok
+15:24:04.0335 0x2734  UserDataSvc - ok
+15:24:04.0439 0x2734  UserManager - ok
+15:24:04.0501 0x2734  UsoSvc - ok
+15:24:04.0557 0x2734  VaultSvc - ok
+15:24:04.0598 0x2734  vdrvroot - ok
+15:24:04.0646 0x2734  vds - ok
+15:24:04.0696 0x2734  VerifierExt - ok
+15:24:04.0734 0x2734  vhdmp - ok
+15:24:04.0770 0x2734  vhf - ok
+15:24:04.0808 0x2734  Vid - ok
+15:24:04.0848 0x2734  vioscsi - ok
+15:24:04.0884 0x2734  VirtualRender - ok
+15:24:04.0917 0x2734  vmbus - ok
+15:24:04.0949 0x2734  VMBusHID - ok
+15:24:04.0987 0x2734  vmgid - ok
+15:24:05.0043 0x2734  vmicguestinterface - ok
+15:24:05.0105 0x2734  vmicheartbeat - ok
+15:24:05.0162 0x2734  vmickvpexchange - ok
+15:24:05.0208 0x2734  vmicrdv - ok
+15:24:05.0256 0x2734  vmicshutdown - ok
+15:24:05.0318 0x2734  vmictimesync - ok
+15:24:05.0384 0x2734  vmicvmsession - ok
+15:24:05.0442 0x2734  vmicvss - ok
+15:24:05.0476 0x2734  volmgr - ok
+15:24:05.0522 0x2734  volmgrx - ok
+15:24:05.0564 0x2734  volsnap - ok
+15:24:05.0604 0x2734  volume - ok
+15:24:05.0639 0x2734  vpci - ok
+15:24:05.0675 0x2734  vsmraid - ok
+15:24:05.0745 0x2734  VSS - ok
+15:24:05.0792 0x2734  VSTXRAID - ok
+15:24:05.0829 0x2734  vwifibus - ok
+15:24:05.0883 0x2734  vwififlt - ok
+15:24:05.0931 0x2734  W32Time - ok
+15:24:05.0984 0x2734  WaaSMedicSvc - ok
+15:24:06.0018 0x2734  WacomPen - ok
+15:24:06.0079 0x2734  WalletService - ok
+15:24:06.0130 0x2734  wanarp - ok
+15:24:06.0178 0x2734  wanarpv6 - ok
+15:24:06.0232 0x2734  WarpJITSvc - ok
+15:24:06.0280 0x2734  wbengine - ok
+15:24:06.0348 0x2734  WbioSrvc - ok
+15:24:06.0400 0x2734  wcifs - ok
+15:24:06.0468 0x2734  Wcmsvc - ok
+15:24:06.0520 0x2734  wcncsvc - ok
+15:24:06.0563 0x2734  WdBoot - ok
+15:24:06.0610 0x2734  Wdf01000 - ok
+15:24:06.0659 0x2734  WdFilter - ok
+15:24:06.0719 0x2734  WdiServiceHost - ok
+15:24:06.0805 0x2734  WdiSystemHost - ok
+15:24:06.0862 0x2734  wdiwifi - ok
+15:24:06.0904 0x2734  WdmCompanionFilter - ok
+15:24:06.0946 0x2734  WdNisDrv - ok
+15:24:06.0994 0x2734  WdNisSvc - ok
+15:24:07.0058 0x2734  WebClient - ok
+15:24:07.0130 0x2734  webthreatdefsvc - ok
+15:24:07.0192 0x2734  webthreatdefusersvc - ok
+15:24:07.0277 0x2734  Wecsvc - ok
+15:24:07.0341 0x2734  WEPHOSTSVC - ok
+15:24:07.0411 0x2734  wercplsupport - ok
+15:24:07.0470 0x2734  WerSvc - ok
+15:24:07.0518 0x2734  WFDSConMgrSvc - ok
+15:24:07.0567 0x2734  WFPLWFS - ok
+15:24:07.0635 0x2734  whesvc - ok
+15:24:07.0698 0x2734  WiaRpc - ok
+15:24:07.0740 0x2734  Wificx - ok
+15:24:07.0795 0x2734  WIMMount - ok
+15:24:07.0833 0x2734  WinAccelCx0101 - ok
+15:24:07.0894 0x2734  WinDefend - ok
+15:24:07.0984 0x2734  WindowsTrustedRT - ok
+15:24:08.0018 0x2734  WindowsTrustedRTProxy - ok
+15:24:08.0085 0x2734  WinHttpAutoProxySvc - ok
+15:24:08.0121 0x2734  wini3ctarget - ok
+15:24:08.0155 0x2734  WinMad - ok
+15:24:08.0224 0x2734  Winmgmt - ok
+15:24:08.0270 0x2734  WinNat - ok
+15:24:08.0333 0x2734  WinRM - ok
+15:24:08.0415 0x2734  WINUSB - ok
+15:24:08.0458 0x2734  WinVerbs - ok
+15:24:08.0513 0x2734  wisvc - ok
+15:24:08.0572 0x2734  WlanSvc - ok
+15:24:08.0642 0x2734  wlidsvc - ok
+15:24:08.0711 0x2734  wlpasvc - ok
+15:24:08.0775 0x2734  WManSvc - ok
+15:24:08.0809 0x2734  WmiAcpi - ok
+15:24:08.0869 0x2734  WmiApSrv - ok
+15:24:08.0925 0x2734  WMPNetworkSvc - ok
+15:24:08.0981 0x2734  Wof - ok
+15:24:09.0068 0x2734  workfolderssvc - ok
+15:24:09.0121 0x2734  WpcMonSvc - ok
+15:24:09.0179 0x2734  WPDBusEnum - ok
+15:24:09.0225 0x2734  WpdUpFltr - ok
+15:24:09.0296 0x2734  WpnService - ok
+15:24:09.0346 0x2734  WpnUserService - ok
+15:24:09.0430 0x2734  ws2ifsl - ok
+15:24:09.0494 0x2734  WSAIFabricSvc - ok
+15:24:09.0562 0x2734  wscsvc - ok
+15:24:09.0618 0x2734  WSearch - ok
+15:24:09.0688 0x2734  wtd - ok
+15:24:09.0751 0x2734  wuauserv - ok
+15:24:09.0801 0x2734  WudfPf - ok
+15:24:09.0835 0x2734  WUDFRd - ok
+15:24:09.0900 0x2734  WwanSvc - ok
+15:24:09.0959 0x2734  XblAuthManager - ok
+15:24:10.0018 0x2734  XblGameSave - ok
+15:24:10.0052 0x2734  xboxgip - ok
+15:24:10.0106 0x2734  XboxGipSvc - ok
+15:24:10.0162 0x2734  XboxNetApiSvc - ok
+15:24:10.0200 0x2734  xinputhid - ok
+15:24:10.0270 0x2734  ZTDNS - ok
+15:24:10.0336 0x2734  ZTHELPER - ok
+15:24:10.0338 0x2734  ================ Scan global ===============================
+15:24:10.0374 0x2734  [ Global ] - ok
+15:24:10.0377 0x2734  ================ Scan MBR ==================================
+15:24:10.0383 0x2734  [ A36C5E4F47E84449FF07ED3517B43A31 ] \Device\Harddisk0\DR0
+15:24:10.0443 0x2734  \Device\Harddisk0\DR0 - ok
+15:24:10.0445 0x2734  ================ Scan VBR ==================================
+15:24:10.0447 0x2734  [ 769FCB8788B27BB47558ACBD15F51417 ] \Device\Harddisk0\DR0\Partition1
+15:24:10.0450 0x2734  \Device\Harddisk0\DR0\Partition1 - ok
+15:24:10.0454 0x2734  [ B1E27AA018409DE6BFD73F8AFB883A65 ] \Device\Harddisk0\DR0\Partition2
+15:24:10.0454 0x2734  \Device\Harddisk0\DR0\Partition2 - ok
+15:24:10.0458 0x2734  [ 29BBA4EAB130ED6EBAB98EE835D2596A ] \Device\Harddisk0\DR0\Partition3
+15:24:10.0460 0x2734  \Device\Harddisk0\DR0\Partition3 - ok
+15:24:10.0462 0x2734  [ 53BDAF3CB7FD7A3B555E5CEDBC528172 ] \Device\Harddisk0\DR0\Partition4
+15:24:10.0466 0x2734  \Device\Harddisk0\DR0\Partition4 - ok
+15:24:10.0468 0x2734  ================ Scan active images ========================
+15:24:10.0468 0x2734  ================ Scan generic autorun ======================
+15:24:10.0468 0x2734  SecurityHealth - ok
+15:24:10.0470 0x2734  OneDriveSetup - ok
+15:24:10.0472 0x2734  OneDriveSetup - ok
+15:24:10.0474 0x2734  MicrosoftEdgeAutoLaunch_8FF016770FEF41DEB2ED4EDEE9F4AF6E - ok
+15:24:10.0476 0x2734  OneDrive - ok
+15:24:10.0478 0x2734  QQNT - ok
+15:24:10.0478 0x2734  Delete Cached Update Binary - ok
+15:24:10.0480 0x2734  Delete Cached Standalone Update Binary - ok
+15:24:10.0482 0x2734  Uninstall 23.081.0416.0001 - ok
+15:24:10.0737 0x2734  Win FW state via NFP2: enabled ( trusted )
+15:24:10.0777 0x2734  ============================================================
+15:24:10.0777 0x2734  Scan finished
+15:24:10.0777 0x2734  ============================================================
+15:24:11.0052 0x1d84  Deinitialize success
+~0,4DTS:~4,2DTS:~6,2 15:24:11.27    Done.
+~0,4DTS:~4,2DTS:~6,2 15:24:11.33    Launch job 'Purge oldest Shadow Copy set (Win7 and up)'...
+~0,4DTS:~4,2DTS:~6,2 15:24:14.79    Done.
+~0,4DTS:~4,2DTS:~6,2 15:24:14.85    Reducing max allowed System Restore space to 7% of disk...
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+~0,4DTS:~4,2DTS:~6,2 15:24:15.12    Done.
+~0,4DTS:~4,2DTS:~6,2 15:24:15.18   stage_0_prep complete.
+~0,4DTS:~4,2DTS:~6,2 15:24:15.55   stage_1_tempclean begin...
+~0,4DTS:~4,2DTS:~6,2 15:24:15.58    Launch job 'Clear CryptNet SSL certificate cache'...
+https://outlook.office.com/.well-known/windows-app-web-link
+
+https://oneclient.sfx.ms/Win/Prod/8348aafc1663ea8170c90768729e63eed2b698d7.xml?OneDriveUpdate=27e821667b2b8fb6c6d8474a697
+
+https://oneclient.sfx.ms/Win/Prod/8348aafc1663ea8170c90768729e63eed2b698d7.xml?OneDriveUpdate=f15ca58add858376e3aad86bbe8
+
+https://oneclient.sfx.ms/Win/Prod/8348aafc1663ea8170c90768729e63eed2b698d7.xml?OneDriveUpdate=964da2fc1aa2b73bac44c87d21c
+
+https://officeclient.microsoft.com/serverconfig16?flights=Client.HRDv21&services=GetFederationProvider
+
+https://officeclient.microsoft.com/serverconfig16?fp=Global&services=MruV2Service,MsGraphEndpoint
+
+https://officeclient.microsoft.com/serverconfig16?tokens=MruQuickAccessMinRefreshPeriodMins
+
+https://odc.officeapps.live.com/odc/v2.1/federationProvider?domain=outlook.com
+
+https://odc.officeapps.live.com/odc/v2.1/federationprovider?domain=9188040d-6c67-4c5b-b112-36a304b66dad
+
+https://assets.msn.com/weathermapdata/1/static/weather/Icons/MSIAWwA=/Teaser/rainstart0.svg
+
+https://assets.msn.com/weathermapdata/1/static/weather/Icons/MSIAWwA=/Teaser/humidity.svg
+
+https://assets.msn.com/weathermapdata/1/static/news/BreakingNews_72x72.png
+
+https://assets.msn.com/weathermapdata/1/static/weather/Icons/MSIAWwA=/Teaser/hot.svg
+
+https://assets.msn.com/weathermapdata/1/static/weather/Icons/MSIAWwA=/Condition/MostlySunnyDay.svg
+
+https://assets.msn.com/weathermapdata/1/static/news/TopStories_72x72.png
+
+https://assets.msn.com/weathermapdata/1/static/weather/Icons/MSIAWwA=/Teaser/uv0.svg
+
+https://assets.msn.com/weathermapdata/1/static/news/ForYouNews_72x72_light.png
+
+https://outlook.office365.com/.well-known/windows-app-web-link
+
+https://substrate.office.com/profileb2/v2.0/me/V1Profile
+
+https://res.public.onecdn.static.microsoft/creativeservice/72976a77-cf4e-9b00-45a5-639a77e86d6a_6850068985431880917_128000000005149769_assets__tile_1726643983683.png
+
+Cookie:cs201@bing.com/
+
+Cookie:cs201@cn.bing.com/
+
+Cookie:cs201@live.com/
+
+Cookie:cs201@g.live.com/
+
+Cookie:cs201@login.microsoftonline.com/
+
+Cookie:cs201@outlook.office.com/
+
+Cookie:cs201@to-do.office.com/
+
+Cookie:cs201@outlook.office365.com/
+
+Visited: cs201@ms-settings:network
+
+Visited: cs201@file:///C:/Users/cs201/Downloads/tron_v12.0.8.zip
+
+Visited: cs201@file:///C:/logs/tron/tron.log
+
+Visited: cs201@file:///C:/Users/cs201/Downloads/tron-12.0.6.zip
+
+É¾³ıµÄ WinINet »º´æÏîÄ¿: 32
+
+http://oneocsp.microsoft.com/ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBQbxmMY0ZtiFXXusCt0ac1S1Zoq4gQU9n4vvYCjSrJwW%2Bvfmh%2FY7cphgAcCEzMCIk6zb0DZQFjqKGMAAAIiTrM%3D
+
+http://ocsp.globalsign.com/rootr1/ME4wTDBKMEgwRjAJBgUrDgMCGgUABBS3V7W2nAf4FiMTjpDJKg6%2BMgGqMQQUYHtmGkUNl8qJUC99BM00qP%2F8%2FUsCDQHuXxad%2F5c1K2Rl1mo%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEA7y5dg2gVICVeksYI%2B8L%2FQ%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEA8fFXWCzc0zc0vcX82UGjM%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAFSnug2jwtdcrpDPi2Opi0%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAI5PUjXAkJafLQcAAsO18o%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTjzY2p9Pa8oibmj%2BNSMWsz63kmWgQUuhbZbU2FL3MpdpovdYxqII%2BeyG8CEAxNaXJLlPo8Kko9KQeAPVo%3D
+
+http://ocsp.digicert.cn/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEA%2FgMquETQMxBsUMjhPIsGg%3D
+
+http://ocsp.digicert.cn/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAL34fmCutAJr%2FR9yVdBsvY%3D
+
+http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab
+
+http://ocsp.digicert.cn/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEATBuWAZH8q%2B3NqTAabNeMM%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBT3xL4LQLXDRDM9P665TW442vrsUQQUReuir%2FSSy4IxLVGLp6chnfNtyA8CEA6bGI750C3n79tQ4ghAGFo%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEA8XGkjG8iOAkhjNLtbdwOg%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H%2Fz9DKA%3D
+
+http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab
+
+http://c.pki.goog/r/gsr1.crl
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSRXerF0eFeSWRripTgTkcJWMm7iQQUaDfg67Y7%2BF8Rhvv%2BYXsIiGX0TkICEA3a8v5R87LpTLtpWkpRdPw%3D
+
+http://ocsp.globalsign.com/codesigningrootr45/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQVFZP5vqhCrtRN5SWf40Rn6NM1IAQUHwC%2FRoAK%2FHg5t6W0Q9lWULvOljsCEHe9DgOhtwj4VKsGchDZBEc%3D
+
+http://ocsp.globalsign.com/codesigningrootr45/MFIwUDBOMEwwSjAJBgUrDgMCGgUABBQVFZP5vqhCrtRN5SWf40Rn6NM1IAQUHwC%2FRoAK%2FHg5t6W0Q9lWULvOljsCEQCBTkIXoSl%2F7VrM1Bf4ka11
+
+http://ocsp.globalsign.com/gsgccr45codesignca2020/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBTLuA3ygnKW%2F7xuSx%2F09F%2BhHVuEUQQU2rONwCSQo2t30wygWd0hZ2R2C3gCDFzND7mMLNAClZYo2Q%3D%3D
+
+http://ocsp.globalsign.com/gsgccr45codesignca2020/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBTLuA3ygnKW%2F7xuSx%2F09F%2BhHVuEUQQU2rONwCSQo2t30wygWd0hZ2R2C3gCDDQ80SkLEh%2F3rrSbtw%3D%3D
+
+http://ocsp.digicert.cn/MFEwTzBNMEswSTAJBgUrDgMCGgUABBRdfbJlK8FvT8EKTy%2FQWk9HlJQmegQUKyMWgRtHiYqQeuzoMtRsjnL5ziUCEAtfHw4uO3jgnc1uenuzUtk%3D
+
+http://ocsp.globalsign.com/rootr3/MFEwTzBNMEswSTAJBgUrDgMCGgUABBT1nGh%2FJBjWKnkPdZIzB1bqhelHBwQUj%2FBLf6guRSSuTVD6Y5qL3uLdG7wCEHgDGEJFcIpBz28BuO60qVQ%3D
+
+http://c.pki.goog/r/r4.crl
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTfIs%2BLjDtGwQ09XEB1Yeq%2BtX%2BBgQQU7NfjgtJxXWRM3y5nP%2Be6mK4cD08CEAitQLJg0pxMn17Nqb2Trtk%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTfIs%2BLjDtGwQ09XEB1Yeq%2BtX%2BBgQQU7NfjgtJxXWRM3y5nP%2Be6mK4cD08CEAc2N7ckVHzYR6z9KGYqXls%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEAUZZSZEml49Gjh0j13P68w%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEA77flR%2B3w%2FxBpruV2lte6A%3D
+
+http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEApDqVCbATUviZV57HIIulA%3D
+
+http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab
+
+É¾³ıµÄ WinHttp »º´æÏîÄ¿: 30
+
+CertUtil: -URLCache Ê§°Ü: 0x80070103 (WIN32/HTTP: 259 ERROR_NO_MORE_ITEMS)
+CertUtil: Ã»ÓĞ¿ÉÓÃµÄÊı¾İÁË¡£
+~0,4DTS:~4,2DTS:~6,2 15:24:16.62    Done.
+~0,4DTS:~4,2DTS:~6,2 15:24:16.68    Launch job 'Clean Internet Explorer'...
+~0,4DTS:~4,2DTS:~6,2 15:24:21.96    Done.
+~0,4DTS:~4,2DTS:~6,2 15:24:22.13    Launch job 'TempFileCleanup'...
+
+ Starting temp file cleanup
+ --------------------------
+
+  Cleaning USER temp files...
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Caches\cversions.3.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Caches\{16D63BEA-B905-4D30-88C9-B63C603DA134}.3.ver0x0000000000000001.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Caches\{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000000e.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\ExplorerStartupLog.etl
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\ExplorerStartupLog_RunOnce.etl
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_1280.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_1920.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_2560.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_768.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_96.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_custom_stream.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_exif.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_sr.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide_alternate.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\RecommendationsFilterList.json
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1280.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1920.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_2560.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_768.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_custom_stream.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_exif.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide_alternate.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\INetCache\IE\BH8GNEZG\uv0[1].svg
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\INetCache\Low\SmartScreenCache.dat
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\INetCache\Low\SuggestedSites.dat
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\V01.chk
+C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\V01.log
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\V0100003.log
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\V01res00001.jrs
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\V01res00002.jrs
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+C:\Users\cs201\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\.ses
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\11223344556677889900112233445566
+C:\Users\cs201\AppData\Local\Temp\af2a6be9-c586-4a05-ae5e-6e0fd2ecc888.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\cv_debug.log
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\msedge_installer.log
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wct1BA.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wct1FEA.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wct435A.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wct81DF.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wctA4C3.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wctBFA9.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wctC82B.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wctE40E.tmp
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\wmsetup.log
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (10).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (11).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (12).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (13).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (14).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (15).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (16).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (17).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (18).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (19).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (2).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (20).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (21).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (22).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (23).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (24).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (25).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (26).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (27).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (28).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (29).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (3).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (30).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (31).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (32).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (33).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (34).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (35).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (36).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (37).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (38).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (39).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (4).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (40).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (41).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (42).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (43).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (44).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (45).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (46).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (47).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (48).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (49).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (5).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (50).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (51).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (52).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (53).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (54).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (55).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (56).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (57).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (58).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (59).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (6).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (60).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (7).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (8).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file (9).xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\xml_file.xml
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\ListSync\Common\Microsoft.ListSync.Thumbnails.db
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\nsw8A26.tmp\FindProcDLL.dll
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\nsw8A26.tmp\nsis7z.dll
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\nsw8A26.tmp\System.dll
+É¾³ıÎÄ¼ş - C:\Users\cs201\AppData\Local\Temp\nsw8A26.tmp\WeChatInstallDll.dll
+C:\Users\cs201\Local Settings\Temp\af2a6be9-c586-4a05-ae5e-6e0fd2ecc888.tmp
+  
+  Done. 
+
+  Cleaning SYSTEM temp files...  
+
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\ASPNETSetup_00000.log
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\ASPNETSetup_00001.log
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\bb3a785178f443fda931098a5a9a306b.db.ses
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\MpSigStub.log
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\wsu4640.tmp
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\MsEdgeCrashpad\metadata
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\MsEdgeCrashpad\settings.dat
+É¾³ıÎÄ¼ş - C:\WINDOWS\TEMP\MsEdgeCrashpad\throttle_store.dat
+  Done. 
+
+--------------------------------------------------------------------------------------------
+~0,4DTS:~4,2DTS:~6,2 15:24:28.84  TempFileCleanup v1.2.2-TRON, finished. Executed as MS\cs201
+--------------------------------------------------------------------------------------------
+
+ Cleanup complete.
+
+ Log saved at: C:\logs\tron\tron.log
+
+~0,4DTS:~4,2DTS:~6,2 15:24:28.90    Done.
+~0,4DTS:~4,2DTS:~6,2 15:24:28.98    Launch job 'CCleaner'...
+~0,4DTS:~4,2DTS:~6,2 15:27:42.94    Done.
+~0,4DTS:~4,2DTS:~6,2 15:27:43.00    Launch job 'Clean duplicate files from Download folders'...
+Error: No files matched 'C:\Users\C:\Users\cs201\AppData\Local\Temp\userlist.txt\Downloads\**'
+No files to process
+~0,4DTS:~4,2DTS:~6,2 15:27:43.54    Done.
+~0,4DTS:~4,2DTS:~6,2 15:27:43.59    Launch job 'USB Device Cleanup'...
+DriveCleanup V1.6.5 (x64)
+Uninstalls non present USB hubs, USB storage devices, Disks, CDROMs, Floppies, storage volumes and WPD devices
+and deletes their registry items
+Freeware by Uwe Sieber - www.uwe-sieber.de
+removing volume 'STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1'
+ OK
+removing volume 'STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2'
+ OK
+removing volume 'STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT3'
+ OK
+removing volume 'STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT4'
+ OK
+Error ACCESS_DENIED accessing SYSTEM\CurrentControlSet\Enum
+
+Removed 0 USB devices
+Removed 0 USB hubs
+Removed 0 Disk devices
+Removed 0 CDROM devices
+Removed 0 Floppy devices
+Removed 4 Storage volumes
+Removed 0 WPD devices
+Removed 0 Items from registry
+
+~0,4DTS:~4,2DTS:~6,2 15:27:45.96    Done.
+~0,4DTS:~4,2DTS:~6,2 15:27:46.01    Launch job 'Clear Windows event logs'...
+~0,4DTS:~4,2DTS:~6,2 15:27:46.05     Saving logs to "C:\logs\tron\backups" first...
+~0,4DTS:~4,2DTS:~6,2 15:27:46.27     Backups done, now clearing...
+~0,4DTS:~4,2DTS:~6,2 15:27:46.32    Done.
+~0,4DTS:~4,2DTS:~6,2 15:27:46.35    Launch job 'Clear Windows Update cache'...
+Ã»ÓĞÆô¶¯ Windows ¸üĞÂ ·şÎñ¡£
+
+Çë¼üÈë NET HELPMSG 3521 ÒÔ»ñµÃ¸ü¶àµÄ°ïÖú¡£
+
+Windows ¸üĞÂ ·şÎñÕıÔÚÆô¶¯ .
+Windows ¸üĞÂ ·şÎñÒÑ¾­Æô¶¯³É¹¦¡£
+
+~0,4DTS:~4,2DTS:~6,2 15:27:49.05    Done.
+~0,4DTS:~4,2DTS:~6,2 15:27:49.12    Launch job 'Reset BranchCache'...
+
+
+BranchCache æœåŠ¡çŠ¶æ€:
+-------------------------------------------------------------------------------
+æœåŠ¡æ¨¡å¼   = å·²ç¦ç”¨
+å½“å‰çŠ¶æ€   = å·²åœæ­¢
+æœåŠ¡å¯åŠ¨ç±»å‹ = æ‰‹åŠ¨
+è¯¥è®¡ç®—æœºæœªé…ç½®ä¸ºæ‰˜ç®¡ç¼“å­˜å®¢æˆ·ç«¯ã€‚
+
+æœ¬åœ°ç¼“å­˜çŠ¶æ€:
+-------------------------------------------------------------------------------
+æœ€å¤§ç¼“å­˜å¤§å° = ç¡¬ç›˜çš„ 5% 
+æœ¬åœ°ç¼“å­˜ä½ç½® = C:\WINDOWS\ServiceProfiles\NetworkService\AppData\Local\PeerDistRepub (é»˜è®¤)
+
+
+å‘å¸ƒç¼“å­˜çŠ¶æ€:
+-------------------------------------------------------------------------------
+æœ€å¤§ç¼“å­˜å¤§å° = ç¡¬ç›˜çš„ 1% 
+å‘å¸ƒç¼“å­˜ä½ç½® = C:\WINDOWS\ServiceProfiles\NetworkService\AppData\Local\PeerDistPub (é»˜è®¤)
+
+
+ç½‘ç»œçŠ¶æ€:
+-------------------------------------------------------------------------------
+å†…å®¹è·å– URL é¢„ç•™       = å·²é…ç½®    (ä¸éœ€è¦)
+æ‰˜ç®¡ç¼“å­˜ URL é¢„ç•™       = å·²é…ç½®    (ä¸éœ€è¦)
+æ‰˜ç®¡ç¼“å­˜ HTTP URL ä¿ç•™  = å·²é…ç½®    (ä¸éœ€è¦)
+ç»‘å®šåˆ°æ‰˜ç®¡ç¼“å­˜ç«¯å£çš„ SSL è¯ä¹¦ = æœªé…ç½®    (ä¸éœ€è¦)
+å†…å®¹è·å–é˜²ç«å¢™è§„åˆ™         = å·²ç¦ç”¨    (ä¸éœ€è¦)
+å¯¹ç­‰æœºå‘ç°é˜²ç«å¢™è§„åˆ™        = å·²ç¦ç”¨    (ä¸éœ€è¦)
+æ‰˜ç®¡ç¼“å­˜æœåŠ¡å™¨é˜²ç«å¢™è§„åˆ™      = å·²ç¦ç”¨    (ä¸éœ€è¦)
+æ‰˜ç®¡ç¼“å­˜å®¢æˆ·ç«¯é˜²ç«å¢™è§„åˆ™      = å·²å¯ç”¨    (ä¸éœ€è¦)
+
+æ­£åœ¨åˆ·æ–°ç¼“å­˜... æˆåŠŸ
+
+~0,4DTS:~4,2DTS:~6,2 15:27:54.69    Done.
+~0,4DTS:~4,2DTS:~6,2 15:27:54.73    Launch job 'Windows Disk Cleanup'...
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+~0,4DTS:~4,2DTS:~6,2 15:30:56.21   stage_1_tempclean complete.
+~0,4DTS:~4,2DTS:~6,2 15:30:56.54   stage_2_de-bloat begin...
+~0,4DTS:~4,2DTS:~6,2 15:30:56.58    Attempt junkware removal: Phase 1 (by specific GUID)...
+~0,4DTS:~4,2DTS:~6,2 15:30:56.87    Comparing system GUID list against 7843 blacklisted entries, please wait...
+~0,4DTS:~4,2DTS:~6,2 15:30:56.90    Done.
+~0,4DTS:~4,2DTS:~6,2 15:30:56.94    Attempt junkware removal: Phase 2 (toolbars by specific GUID)...
+~0,4DTS:~4,2DTS:~6,2 15:30:57.14    Comparing system GUID list against 4932 blacklisted entries, please wait...
+~0,4DTS:~4,2DTS:~6,2 15:30:57.17    Done.
+~0,4DTS:~4,2DTS:~6,2 15:30:57.21    Attempt junkware removal: Phase 3 (wildcard by name)...
+~0,4DTS:~4,2DTS:~6,2 15:30:57.27    Tron is NOT stalled here, this portion just takes a long time
+~0,4DTS:~4,2DTS:~6,2 15:30:57.32    Errors about 'SHUTTING DOWN' are safe to ignore
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+~0,4DTS:~4,2DTS:~6,2 15:30:57.67 !  PendingFileRenameOperations entries exported to "C:\logs\tron\raw_logs\PendingFileRenameOperations_MS_~0,4DTS:~4,2DTS:~6,2.txt" and deleted.
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+'"C:\WINDOWS\System32\wbem\wmic.exe"' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+~0,4DTS:~4,2DTS:~6,2 15:31:16.52    Done.
+~0,4DTS:~4,2DTS:~6,2 15:31:16.58    Attempt junkware removal: Phase 4 (auxiliary HP and Wild Tangent Games scans)...
+~0,4DTS:~4,2DTS:~6,2 15:31:16.69    Done.
+~0,4DTS:~4,2DTS:~6,2 15:31:16.80    Windows 8 or higher detected, removing OEM Metro apps...
+~0,4DTS:~4,2DTS:~6,2 15:33:15.74    Done.
+~0,4DTS:~4,2DTS:~6,2 15:33:15.81    Checking if OneDrive is in use, please wait...
+Searching for directories that have exceeded 0.5 bytes
+    Size  (b)  Files  Directory
+!     1248577      3  SUB-TOTAL: C:\USERS\CS201\ONEDRIVE
+!     1248577      3  TOTAL: C:\USERS\CS201\ONEDRIVE
+~0,4DTS:~4,2DTS:~6,2 15:33:16.66 !  OneDrive appears to be in use (files exist in the OneDrive folder). Skipping removal.
+~0,4DTS:~4,2DTS:~6,2 15:33:16.75    Disabling 'howto' tips appearing...
+²Ù×÷³É¹¦Íê³É¡£
+~0,4DTS:~4,2DTS:~6,2 15:33:17.01    Done.
+~0,4DTS:~4,2DTS:~6,2 15:33:17.12    Disabling 'Occasionally show suggestions in Start'...
+²Ù×÷³É¹¦Íê³É¡£
+~0,4DTS:~4,2DTS:~6,2 15:33:17.31    Done.
+~0,4DTS:~4,2DTS:~6,2 15:33:17.43   stage_2_de-bloat complete.
+~0,4DTS:~4,2DTS:~6,2 15:33:17.72   stage_3_disinfect begin...
+~0,4DTS:~4,2DTS:~6,2 15:33:17.77    Launch job 'Install Malwarebytes Anti-Malware'...
+Malwarebytes Service ·şÎñÕıÔÚÍ£Ö¹........
+Malwarebytes Service ·şÎñÎŞ·¨Í£Ö¹¡£
+
+³É¹¦: ÒÑÖÕÖ¹½ø³Ì "mbamtray.exe"£¬Æä PID Îª 10188¡£
+³É¹¦: ÒÑÖÕÖ¹½ø³Ì "mbamtray.exe"£¬Æä PID Îª 7852¡£
+stage_3_disinfect\mbam\AeConfig.json
+stage_3_disinfect\mbam\ArwControllerConfig.json
+stage_3_disinfect\mbam\CleanControllerConfig.json
+stage_3_disinfect\mbam\CloudConfig.json
+stage_3_disinfect\mbam\LicenseConfig.json
+stage_3_disinfect\mbam\MbamClientConfig.json
+stage_3_disinfect\mbam\MwacControllerConfig.json
+stage_3_disinfect\mbam\PoliciesConfig.json
+stage_3_disinfect\mbam\RtpConfig.json
+stage_3_disinfect\mbam\ScanConfig.json
+stage_3_disinfect\mbam\SpConfigFile.json
+stage_3_disinfect\mbam\TelemCtrlConfig.json
+stage_3_disinfect\mbam\telemetry.json
+stage_3_disinfect\mbam\UpdateControllerConfig.json
+ÒÑ¸´ÖÆ        14 ¸öÎÄ¼ş¡£
+~0,4DTS:~4,2DTS:~6,2 15:34:25.58    Loading bundled definitions package...
+2025-08-10 15:34:27.945   Log opened. (Time zone: UTC+08:00)
+2025-08-10 15:34:27.945   Setup version: Inno Setup version 5.5.6 (a)
+2025-08-10 15:34:27.945   Original Setup EXE: C:\Users\cs201\Desktop\Tron v12.0.8 (2025-01-09)\resources\stage_3_disinfect\mbam\mbam2-rules.exe
+2025-08-10 15:34:27.945   Setup command line: /SL5="$A0328,10937194,56832,C:\Users\cs201\Desktop\Tron v12.0.8 (2025-01-09)\resources\stage_3_disinfect\mbam\mbam2-rules.exe" /sp- /verysilent /suppressmsgboxes /log="C:\logs\tron\raw_logs\mbam_rules_install.log" /norestart
+2025-08-10 15:34:27.945   Windows version: 10.0.26100  (NT platform: Yes)
+2025-08-10 15:34:27.947   64-bit Windows: Yes
+2025-08-10 15:34:27.947   Processor architecture: x64
+2025-08-10 15:34:27.947   User privileges: Administrative
+2025-08-10 15:34:27.949   64-bit install mode: No
+2025-08-10 15:34:27.973   Created temporary directory: C:\Users\cs201\AppData\Local\Temp\is-6KJ6A.tmp
+2025-08-10 15:34:28.597   Starting the installation process.
+2025-08-10 15:34:28.608   Creating directory: C:\Program Files (x86)\Malwarebytes Anti-Malware
+2025-08-10 15:34:28.610   -- File entry --
+2025-08-10 15:34:28.610   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\rules.ref
+2025-08-10 15:34:28.619   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.619   Installing the file.
+2025-08-10 15:34:28.619   Creating directory: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware
+2025-08-10 15:34:28.798   Successfully installed the file.
+2025-08-10 15:34:28.800   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\rules.ref
+2025-08-10 15:34:28.818   -- File entry --
+2025-08-10 15:34:28.818   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\actions.ref
+2025-08-10 15:34:28.818   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.818   Installing the file.
+2025-08-10 15:34:28.822   Successfully installed the file.
+2025-08-10 15:34:28.824   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\actions.ref
+2025-08-10 15:34:28.824   -- File entry --
+2025-08-10 15:34:28.824   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\swissarmy.ref
+2025-08-10 15:34:28.826   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.826   Installing the file.
+2025-08-10 15:34:28.832   Successfully installed the file.
+2025-08-10 15:34:28.832   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\swissarmy.ref
+2025-08-10 15:34:28.834   -- File entry --
+2025-08-10 15:34:28.834   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\domains.ref
+2025-08-10 15:34:28.834   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.834   Installing the file.
+2025-08-10 15:34:28.876   Successfully installed the file.
+2025-08-10 15:34:28.876   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\domains.ref
+2025-08-10 15:34:28.878   -- File entry --
+2025-08-10 15:34:28.878   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\ips.ref
+2025-08-10 15:34:28.880   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.880   Installing the file.
+2025-08-10 15:34:28.886   Successfully installed the file.
+2025-08-10 15:34:28.886   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\ips.ref
+2025-08-10 15:34:28.888   -- File entry --
+2025-08-10 15:34:28.888   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akadomains.ref
+2025-08-10 15:34:28.888   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.888   Installing the file.
+2025-08-10 15:34:28.892   Successfully installed the file.
+2025-08-10 15:34:28.894   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akadomains.ref
+2025-08-10 15:34:28.896   -- File entry --
+2025-08-10 15:34:28.896   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akaips.ref
+2025-08-10 15:34:28.896   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.896   Installing the file.
+2025-08-10 15:34:28.902   Successfully installed the file.
+2025-08-10 15:34:28.902   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akaips.ref
+2025-08-10 15:34:28.904   -- File entry --
+2025-08-10 15:34:28.904   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\Configuration\manifest.conf
+2025-08-10 15:34:28.906   Time stamp of our file: 2019-10-17 09:00:56.000
+2025-08-10 15:34:28.906   Installing the file.
+2025-08-10 15:34:28.906   Creating directory: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\Configuration
+2025-08-10 15:34:28.910   Successfully installed the file.
+2025-08-10 15:34:28.910   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\Configuration\manifest.conf
+2025-08-10 15:34:28.912   Installation process succeeded.
+2025-08-10 15:34:28.912   Need to restart Windows? No
+2025-08-10 15:34:28.921   Deinitializing Setup.
+2025-08-10 15:34:28.943   Log closed.
+~0,4DTS:~4,2DTS:~6,2 15:34:29.10     Done.
+~0,4DTS:~4,2DTS:~6,2 15:34:29.17    Launch job 'Malwarebytes AdwCleaner'...
+~0,4DTS:~4,2DTS:~6,2 15:34:29.20    Tool-specific log will be saved to "C:\logs\tron\raw_logs\AdwCleaner"
+~0,4DTS:~4,2DTS:~6,2 15:35:18.51    Done.
+~0,4DTS:~4,2DTS:~6,2 15:35:18.62    Launch job 'Kaspersky Virus Removal Tool'...
+~0,4DTS:~4,2DTS:~6,2 15:35:18.65    Tool-specific log will be saved to "C:\logs\tron\raw_logs\Reports"
+~0,4DTS:~4,2DTS:~6,2 15:42:42.08    Done.
+~0,4DTS:~4,2DTS:~6,2 15:42:42.15   stage_3_disinfect complete.
+~0,4DTS:~4,2DTS:~6,2 15:42:42.90   stage_4_repair begin...
+~0,4DTS:~4,2DTS:~6,2 15:42:42.99    Cleaning up orphaned MSI cache files...
+MsiZapInfo: Performing operations for user S-1-5-21-1157808687-1981983763-850850244-1001
+Removing orphaned cached files.
+No product data was found.
+~0,4DTS:~4,2DTS:~6,2 15:42:44.38    Done.
+~0,4DTS:~4,2DTS:~6,2 15:42:44.43    Launch job 'DISM Windows image check'...
+~0,4DTS:~4,2DTS:~6,2 15:50:16.50    DISM: No image corruption detected.
+~0,4DTS:~4,2DTS:~6,2 15:50:16.53    Compiling DISM logs into main Tron log...
+ï»¿2025-08-10 15:42:44, Info                  DISM   PID=2760 TID=10888 Scratch directory set to 'C:\Users\cs201\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2025-08-10 15:42:44, Info                  DISM   PID=2760 TID=10888 DismCore.dll version: 10.0.26100.4652 - CDISMManager::FinalConstruct
+2025-08-10 15:42:44, Info                  DISM   Initialized Panther logging at C:\logs\tron\raw_logs\dism_check.log
+2025-08-10 15:42:44, Info                  DISM   PID=2760 TID=10888 Successfully loaded the ImageSession at "C:\WINDOWS\system32\Dism" - CDISMManager::LoadLocalImageSession
+2025-08-10 15:42:44, Info                  DISM   Initialized Panther logging at C:\logs\tron\raw_logs\dism_check.log
+2025-08-10 15:42:44, Info                  DISM   DISM Provider Store: PID=2760 TID=10888 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2025-08-10 15:42:44, Info                  DISM   Initialized Panther logging at C:\logs\tron\raw_logs\dism_check.log
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 Successfully created the local image session and provider store. - CDISMManager::CreateLocalImageSession
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: 
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: <----- Starting Dism.exe session ----->
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: 
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: Host machine information: OS Version=10.0.26100, Running architecture=amd64, Number of processors=4
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: Instance information: Parent process=C:\Windows\System32\cmd.exe, Parent process PID=3180
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: Dism.exe version: 10.0.26100.1150
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: Executing command line: dism  /Online /NoRestart /Cleanup-Image /ScanHealth /Logpath:"C:\logs\tron\raw_logs\dism_check.log"
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 physical location path: C:\ - CDISMManager::CreateImageSession
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 Event name for current DISM session is Global\{97814F57-FA7D-4505-80DA-FCA9B8749A58} - CDISMManager::CheckSessionAndLock
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 Create session event 0x274 for current DISM session and event name is Global\{97814F57-FA7D-4505-80DA-FCA9B8749A58}  - CDISMManager::CheckSessionAndLock
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 Copying DISM from "C:\WINDOWS\System32\Dism" - CDISMManager::CreateImageSessionFromLocation
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 No Sandbox was created, DISM running in-place. - CDISMManager::CreateImageSessionFromLocation
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 Successfully loaded the ImageSession at "C:\WINDOWS\System32\Dism" - CDISMManager::LoadRemoteImageSession
+2025-08-10 15:42:44, Info                  DISM   DISM Image Session: PID=2008 TID=8340 Instantiating the Provider Store. - CDISMImageSession::get_ProviderStore
+2025-08-10 15:42:44, Info                  DISM   DISM OS Provider: PID=2008 TID=8340 Defaulting SystemPath to C:\ - CDISMOSServiceManager::Final_OnConnect
+2025-08-10 15:42:44, Info                  DISM   DISM OS Provider: PID=2008 TID=8340 Defaulting Windows folder to C:\Windows - CDISMOSServiceManager::Final_OnConnect
+2025-08-10 15:42:44, Info                  DISM   DISM Provider Store: PID=2008 TID=8340 Attempting to initialize the logger from the Image Session. - CDISMProviderStore::Final_OnConnect
+2025-08-10 15:42:44, Info                  DISM   Initialized Panther logging at C:\logs\tron\raw_logs\dism_check.log
+2025-08-10 15:42:44, Info                  DISM   DISM Provider Store: PID=2008 TID=8340 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2025-08-10 15:42:44, Info                  DISM   Initialized Panther logging at C:\logs\tron\raw_logs\dism_check.log
+2025-08-10 15:42:44, Info                  DISM   Initialized Panther logging at C:\logs\tron\raw_logs\dism_check.log
+2025-08-10 15:42:44, Info                  DISM   DISM Manager: PID=2760 TID=10888 Image session successfully loaded from location: C:\WINDOWS\System32\Dism - CDISMManager::CreateImageSession
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: Target image information: OS Version=10.0.26100.4652, Image architecture=amd64
+2025-08-10 15:42:44, Info                  DISM   DISM.EXE: Image session version: 10.0.26100.1150
+2025-08-10 15:42:44, Info                  DISM   DISM Transmog Provider: PID=2008 TID=8340 Current image session is [ONLINE] - CTransmogManager::GetMode
+2025-08-10 15:42:44, Info                  DISM   DISM Transmog Provider: PID=2008 TID=8340 Audit Mode: [No] - CTransmogManager::Initialize
+2025-08-10 15:42:44, Info                  DISM   DISM Transmog Provider: PID=2008 TID=8340 GetProductType: ProductType = [WinNT] - CTransmogManager::GetProductType
+2025-08-10 15:42:44, Info                  DISM   DISM Transmog Provider: PID=2008 TID=8340 Product Type: [WinNT] - CTransmogManager::Initialize
+2025-08-10 15:42:44, Info                  DISM   DISM Transmog Provider: PID=2008 TID=8340 Product Type ServerNT : [No] - CTransmogManager::Initialize
+2025-08-10 15:42:45, Info                  DISM   DISM OS Provider: PID=2008 TID=8340 Determined System directory to be C:\Windows\System32 - CDISMOSServiceManager::get_SystemDirectory
+2025-08-10 15:42:45, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:42:45, Info                  DISM   DISM Driver Manager: PID=2008 TID=8340 Further logs for driver related operations can be found in the target operating system at %WINDIR%\inf\setupapi.offline.log - CDriverManager::Initialize
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Finished initializing the CbsConUI Handler. - CCbsConUIHandler::Initialize
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 CBS is being initialized for online use. More information about CBS actions can be located at: %windir%\logs\CBS\CBS.log - CDISMPackageManager::Initialize
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Loaded servicing stack for online use. - CDISMPackageManager::CreateCbsSession
+2025-08-10 15:42:45, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Processing the top level command token(cleanup-image). - CPackageManagerCLIHandler::Private_ValidateCmdLine
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Attempting to route to appropriate command handler. - CPackageManagerCLIHandler::ExecuteCmdLine
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Routing the command... - CPackageManagerCLIHandler::ExecuteCmdLine
+2025-08-10 15:42:45, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 CBS session options=0x100! - CDISMPackageManager::Internal_Finalize
+2025-08-10 15:50:16, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:50:16, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Loaded servicing stack for online use. - CDISMPackageManager::CreateCbsSession
+2025-08-10 15:50:16, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:50:16, Info                  DISM   DISM Package Manager: PID=2008 TID=8340 Finalizing CBS core. - CDISMPackageManager::Finalize
+2025-08-10 15:50:16, Info                  DISM   DISM Manager: PID=2760 TID=10888 Closing session event handle 0x274 - CDISMManager::CleanupImageSessionEntry
+2025-08-10 15:50:16, Info                  DISM   DISM.EXE: Image session has been closed. Reboot required=no.
+2025-08-10 15:50:16, Info                  DISM   DISM.EXE: 
+2025-08-10 15:50:16, Info                  DISM   DISM.EXE: <----- Ending Dism.exe session ----->
+2025-08-10 15:50:16, Info                  DISM   DISM.EXE: 
+~0,4DTS:~4,2DTS:~6,2 15:50:16.81    Done.
+~0,4DTS:~4,2DTS:~6,2 15:50:16.89    Launch job 'System File Checker'...
+2025-08-10 15:50:23, Info                  CSI    0000001a [SR] Verifying 100 components
+2025-08-10 15:50:23, Info                  CSI    0000001b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:24, Info                  CSI    0000001c [SR] Verify complete
+2025-08-10 15:50:24, Info                  CSI    0000001d [SR] Verifying 100 components
+2025-08-10 15:50:24, Info                  CSI    0000001e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:25, Info                  CSI    0000001f [SR] Verify complete
+2025-08-10 15:50:25, Info                  CSI    00000020 [SR] Verifying 100 components
+2025-08-10 15:50:25, Info                  CSI    00000021 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:26, Info                  CSI    00000022 [SR] Verify complete
+2025-08-10 15:50:27, Info                  CSI    00000023 [SR] Verifying 100 components
+2025-08-10 15:50:27, Info                  CSI    00000024 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:28, Info                  CSI    00000025 [SR] Verify complete
+2025-08-10 15:50:28, Info                  CSI    00000026 [SR] Verifying 100 components
+2025-08-10 15:50:28, Info                  CSI    00000027 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:30, Info                  CSI    00000028 [SR] Verify complete
+2025-08-10 15:50:30, Info                  CSI    00000029 [SR] Verifying 100 components
+2025-08-10 15:50:30, Info                  CSI    0000002a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:32, Info                  CSI    0000002b [SR] Verify complete
+2025-08-10 15:50:32, Info                  CSI    0000002c [SR] Verifying 100 components
+2025-08-10 15:50:32, Info                  CSI    0000002d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:34, Info                  CSI    0000002e [SR] Verify complete
+2025-08-10 15:50:35, Info                  CSI    0000002f [SR] Verifying 100 components
+2025-08-10 15:50:35, Info                  CSI    00000030 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:37, Info                  CSI    00000031 [SR] Verify complete
+2025-08-10 15:50:37, Info                  CSI    00000032 [SR] Verifying 100 components
+2025-08-10 15:50:37, Info                  CSI    00000033 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:42, Info                  CSI    00000034 [SR] Verify complete
+2025-08-10 15:50:42, Info                  CSI    00000035 [SR] Verifying 100 components
+2025-08-10 15:50:42, Info                  CSI    00000036 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:49, Info                  CSI    00000037 [SR] Verify complete
+2025-08-10 15:50:49, Info                  CSI    00000038 [SR] Verifying 100 components
+2025-08-10 15:50:49, Info                  CSI    00000039 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:51, Info                  CSI    0000003a [SR] Verify complete
+2025-08-10 15:50:51, Info                  CSI    0000003b [SR] Verifying 100 components
+2025-08-10 15:50:51, Info                  CSI    0000003c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:52, Info                  CSI    0000003d [SR] Verify complete
+2025-08-10 15:50:53, Info                  CSI    0000003e [SR] Verifying 100 components
+2025-08-10 15:50:53, Info                  CSI    0000003f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:50:54, Info                  CSI    00000040 [SR] Verify complete
+2025-08-10 15:50:54, Info                  CSI    00000041 [SR] Verifying 100 components
+2025-08-10 15:50:54, Info                  CSI    00000042 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:01, Info                  CSI    00000044 [SR] Verify complete
+2025-08-10 15:51:01, Info                  CSI    00000045 [SR] Verifying 100 components
+2025-08-10 15:51:01, Info                  CSI    00000046 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:02, Info                  CSI    00000047 [SR] Verify complete
+2025-08-10 15:51:02, Info                  CSI    00000048 [SR] Verifying 100 components
+2025-08-10 15:51:02, Info                  CSI    00000049 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:03, Info                  CSI    0000004a [SR] Verify complete
+2025-08-10 15:51:04, Info                  CSI    0000004b [SR] Verifying 100 components
+2025-08-10 15:51:04, Info                  CSI    0000004c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:05, Info                  CSI    0000004d [SR] Verify complete
+2025-08-10 15:51:05, Info                  CSI    0000004e [SR] Verifying 100 components
+2025-08-10 15:51:05, Info                  CSI    0000004f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:06, Info                  CSI    00000050 [SR] Verify complete
+2025-08-10 15:51:06, Info                  CSI    00000051 [SR] Verifying 100 components
+2025-08-10 15:51:06, Info                  CSI    00000052 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:08, Info                  CSI    00000053 [SR] Verify complete
+2025-08-10 15:51:08, Info                  CSI    00000054 [SR] Verifying 100 components
+2025-08-10 15:51:08, Info                  CSI    00000055 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:10, Info                  CSI    00000056 [SR] Verify complete
+2025-08-10 15:51:10, Info                  CSI    00000057 [SR] Verifying 100 components
+2025-08-10 15:51:10, Info                  CSI    00000058 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:12, Info                  CSI    00000059 [SR] Verify complete
+2025-08-10 15:51:13, Info                  CSI    0000005a [SR] Verifying 100 components
+2025-08-10 15:51:13, Info                  CSI    0000005b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:15, Info                  CSI    0000005c [SR] Verify complete
+2025-08-10 15:51:15, Info                  CSI    0000005d [SR] Verifying 100 components
+2025-08-10 15:51:15, Info                  CSI    0000005e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:17, Info                  CSI    0000005f [SR] Verify complete
+2025-08-10 15:51:18, Info                  CSI    00000060 [SR] Verifying 100 components
+2025-08-10 15:51:18, Info                  CSI    00000061 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:20, Info                  CSI    00000062 [SR] Verify complete
+2025-08-10 15:51:20, Info                  CSI    00000063 [SR] Verifying 100 components
+2025-08-10 15:51:20, Info                  CSI    00000064 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:22, Info                  CSI    00000065 [SR] Verify complete
+2025-08-10 15:51:22, Info                  CSI    00000066 [SR] Verifying 100 components
+2025-08-10 15:51:22, Info                  CSI    00000067 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:24, Info                  CSI    00000068 [SR] Verify complete
+2025-08-10 15:51:24, Info                  CSI    00000069 [SR] Verifying 100 components
+2025-08-10 15:51:24, Info                  CSI    0000006a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:25, Info                  CSI    0000006b [SR] Verify complete
+2025-08-10 15:51:25, Info                  CSI    0000006c [SR] Verifying 100 components
+2025-08-10 15:51:25, Info                  CSI    0000006d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:28, Info                  CSI    0000006f [SR] Verify complete
+2025-08-10 15:51:28, Info                  CSI    00000070 [SR] Verifying 100 components
+2025-08-10 15:51:28, Info                  CSI    00000071 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:29, Info                  CSI    00000072 [SR] Verify complete
+2025-08-10 15:51:30, Info                  CSI    00000073 [SR] Verifying 100 components
+2025-08-10 15:51:30, Info                  CSI    00000074 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:32, Info                  CSI    00000075 [SR] Verify complete
+2025-08-10 15:51:32, Info                  CSI    00000076 [SR] Verifying 100 components
+2025-08-10 15:51:32, Info                  CSI    00000077 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:33, Info                  CSI    00000078 [SR] Verify complete
+2025-08-10 15:51:34, Info                  CSI    00000079 [SR] Verifying 100 components
+2025-08-10 15:51:34, Info                  CSI    0000007a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:35, Info                  CSI    0000007b [SR] Verify complete
+2025-08-10 15:51:35, Info                  CSI    0000007c [SR] Verifying 100 components
+2025-08-10 15:51:35, Info                  CSI    0000007d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:37, Info                  CSI    0000007f [SR] Verify complete
+2025-08-10 15:51:37, Info                  CSI    00000080 [SR] Verifying 100 components
+2025-08-10 15:51:37, Info                  CSI    00000081 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:39, Info                  CSI    00000082 [SR] Verify complete
+2025-08-10 15:51:39, Info                  CSI    00000083 [SR] Verifying 100 components
+2025-08-10 15:51:39, Info                  CSI    00000084 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:40, Info                  CSI    00000085 [SR] Verify complete
+2025-08-10 15:51:40, Info                  CSI    00000086 [SR] Verifying 100 components
+2025-08-10 15:51:40, Info                  CSI    00000087 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:41, Info                  CSI    00000088 [SR] Verify complete
+2025-08-10 15:51:42, Info                  CSI    00000089 [SR] Verifying 100 components
+2025-08-10 15:51:42, Info                  CSI    0000008a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:44, Info                  CSI    0000008c [SR] Verify complete
+2025-08-10 15:51:44, Info                  CSI    0000008d [SR] Verifying 100 components
+2025-08-10 15:51:44, Info                  CSI    0000008e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:45, Info                  CSI    0000008f [SR] Verify complete
+2025-08-10 15:51:46, Info                  CSI    00000090 [SR] Verifying 100 components
+2025-08-10 15:51:46, Info                  CSI    00000091 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:47, Info                  CSI    00000092 [SR] Verify complete
+2025-08-10 15:51:47, Info                  CSI    00000093 [SR] Verifying 100 components
+2025-08-10 15:51:47, Info                  CSI    00000094 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:49, Info                  CSI    00000095 [SR] Verify complete
+2025-08-10 15:51:49, Info                  CSI    00000096 [SR] Verifying 100 components
+2025-08-10 15:51:49, Info                  CSI    00000097 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:51, Info                  CSI    00000098 [SR] Verify complete
+2025-08-10 15:51:51, Info                  CSI    00000099 [SR] Verifying 100 components
+2025-08-10 15:51:51, Info                  CSI    0000009a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:52, Info                  CSI    0000009b [SR] Verify complete
+2025-08-10 15:51:52, Info                  CSI    0000009c [SR] Verifying 100 components
+2025-08-10 15:51:52, Info                  CSI    0000009d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:54, Info                  CSI    0000009e [SR] Verify complete
+2025-08-10 15:51:54, Info                  CSI    0000009f [SR] Verifying 100 components
+2025-08-10 15:51:54, Info                  CSI    000000a0 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:55, Info                  CSI    000000a1 [SR] Verify complete
+2025-08-10 15:51:56, Info                  CSI    000000a2 [SR] Verifying 100 components
+2025-08-10 15:51:56, Info                  CSI    000000a3 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:57, Info                  CSI    000000a4 [SR] Verify complete
+2025-08-10 15:51:57, Info                  CSI    000000a5 [SR] Verifying 100 components
+2025-08-10 15:51:57, Info                  CSI    000000a6 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:51:59, Info                  CSI    000000a7 [SR] Verify complete
+2025-08-10 15:51:59, Info                  CSI    000000a8 [SR] Verifying 100 components
+2025-08-10 15:51:59, Info                  CSI    000000a9 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:02, Info                  CSI    000000aa [SR] Verify complete
+2025-08-10 15:52:02, Info                  CSI    000000ab [SR] Verifying 100 components
+2025-08-10 15:52:02, Info                  CSI    000000ac [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:04, Info                  CSI    000000ad [SR] Verify complete
+2025-08-10 15:52:04, Info                  CSI    000000ae [SR] Verifying 100 components
+2025-08-10 15:52:04, Info                  CSI    000000af [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:07, Info                  CSI    000000b2 [SR] Verify complete
+2025-08-10 15:52:07, Info                  CSI    000000b3 [SR] Verifying 100 components
+2025-08-10 15:52:07, Info                  CSI    000000b4 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:09, Info                  CSI    000000b5 [SR] Verify complete
+2025-08-10 15:52:09, Info                  CSI    000000b6 [SR] Verifying 100 components
+2025-08-10 15:52:09, Info                  CSI    000000b7 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:10, Info                  CSI    000000b8 [SR] Verify complete
+2025-08-10 15:52:10, Info                  CSI    000000b9 [SR] Verifying 100 components
+2025-08-10 15:52:10, Info                  CSI    000000ba [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:12, Info                  CSI    000000bc [SR] Verify complete
+2025-08-10 15:52:12, Info                  CSI    000000bd [SR] Verifying 100 components
+2025-08-10 15:52:12, Info                  CSI    000000be [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:14, Info                  CSI    000000bf [SR] Verify complete
+2025-08-10 15:52:14, Info                  CSI    000000c0 [SR] Verifying 100 components
+2025-08-10 15:52:14, Info                  CSI    000000c1 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:15, Info                  CSI    000000c2 [SR] Verify complete
+2025-08-10 15:52:15, Info                  CSI    000000c3 [SR] Verifying 100 components
+2025-08-10 15:52:15, Info                  CSI    000000c4 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:17, Info                  CSI    000000c6 [SR] Verify complete
+2025-08-10 15:52:18, Info                  CSI    000000c7 [SR] Verifying 100 components
+2025-08-10 15:52:18, Info                  CSI    000000c8 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:20, Info                  CSI    000000c9 [SR] Verify complete
+2025-08-10 15:52:20, Info                  CSI    000000ca [SR] Verifying 100 components
+2025-08-10 15:52:20, Info                  CSI    000000cb [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:22, Info                  CSI    000000cc [SR] Verify complete
+2025-08-10 15:52:22, Info                  CSI    000000cd [SR] Verifying 100 components
+2025-08-10 15:52:22, Info                  CSI    000000ce [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:23, Info                  CSI    000000cf [SR] Verify complete
+2025-08-10 15:52:24, Info                  CSI    000000d0 [SR] Verifying 100 components
+2025-08-10 15:52:24, Info                  CSI    000000d1 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:24, Info                  CSI    000000d2 [SR] Verify complete
+2025-08-10 15:52:25, Info                  CSI    000000d3 [SR] Verifying 100 components
+2025-08-10 15:52:25, Info                  CSI    000000d4 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:26, Info                  CSI    000000d5 [SR] Verify complete
+2025-08-10 15:52:26, Info                  CSI    000000d6 [SR] Verifying 100 components
+2025-08-10 15:52:26, Info                  CSI    000000d7 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:27, Info                  CSI    000000d8 [SR] Verify complete
+2025-08-10 15:52:28, Info                  CSI    000000d9 [SR] Verifying 100 components
+2025-08-10 15:52:28, Info                  CSI    000000da [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:29, Info                  CSI    000000db [SR] Verify complete
+2025-08-10 15:52:29, Info                  CSI    000000dc [SR] Verifying 100 components
+2025-08-10 15:52:29, Info                  CSI    000000dd [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:31, Info                  CSI    000000de [SR] Verify complete
+2025-08-10 15:52:31, Info                  CSI    000000df [SR] Verifying 100 components
+2025-08-10 15:52:31, Info                  CSI    000000e0 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:34, Info                  CSI    000000e3 [SR] Verify complete
+2025-08-10 15:52:34, Info                  CSI    000000e4 [SR] Verifying 100 components
+2025-08-10 15:52:34, Info                  CSI    000000e5 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:36, Info                  CSI    000000e6 [SR] Verify complete
+2025-08-10 15:52:36, Info                  CSI    000000e7 [SR] Verifying 100 components
+2025-08-10 15:52:36, Info                  CSI    000000e8 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:37, Info                  CSI    000000e9 [SR] Verify complete
+2025-08-10 15:52:37, Info                  CSI    000000ea [SR] Verifying 100 components
+2025-08-10 15:52:37, Info                  CSI    000000eb [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:40, Info                  CSI    000000ed [SR] Verify complete
+2025-08-10 15:52:40, Info                  CSI    000000ee [SR] Verifying 100 components
+2025-08-10 15:52:40, Info                  CSI    000000ef [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:41, Info                  CSI    000000f0 [SR] Verify complete
+2025-08-10 15:52:41, Info                  CSI    000000f1 [SR] Verifying 100 components
+2025-08-10 15:52:41, Info                  CSI    000000f2 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:43, Info                  CSI    000000f3 [SR] Verify complete
+2025-08-10 15:52:43, Info                  CSI    000000f4 [SR] Verifying 100 components
+2025-08-10 15:52:43, Info                  CSI    000000f5 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:45, Info                  CSI    000000f6 [SR] Verify complete
+2025-08-10 15:52:45, Info                  CSI    000000f7 [SR] Verifying 100 components
+2025-08-10 15:52:45, Info                  CSI    000000f8 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:48, Info                  CSI    000000fa [SR] Verify complete
+2025-08-10 15:52:48, Info                  CSI    000000fb [SR] Verifying 100 components
+2025-08-10 15:52:48, Info                  CSI    000000fc [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:49, Info                  CSI    000000fd [SR] Verify complete
+2025-08-10 15:52:50, Info                  CSI    000000fe [SR] Verifying 100 components
+2025-08-10 15:52:50, Info                  CSI    000000ff [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:52, Info                  CSI    00000100 [SR] Verify complete
+2025-08-10 15:52:52, Info                  CSI    00000101 [SR] Verifying 100 components
+2025-08-10 15:52:52, Info                  CSI    00000102 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:54, Info                  CSI    00000104 [SR] Verify complete
+2025-08-10 15:52:55, Info                  CSI    00000105 [SR] Verifying 100 components
+2025-08-10 15:52:55, Info                  CSI    00000106 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:56, Info                  CSI    00000107 [SR] Verify complete
+2025-08-10 15:52:56, Info                  CSI    00000108 [SR] Verifying 100 components
+2025-08-10 15:52:56, Info                  CSI    00000109 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:52:58, Info                  CSI    0000010a [SR] Verify complete
+2025-08-10 15:52:58, Info                  CSI    0000010b [SR] Verifying 100 components
+2025-08-10 15:52:58, Info                  CSI    0000010c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:00, Info                  CSI    0000010d [SR] Verify complete
+2025-08-10 15:53:00, Info                  CSI    0000010e [SR] Verifying 100 components
+2025-08-10 15:53:00, Info                  CSI    0000010f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:02, Info                  CSI    00000110 [SR] Verify complete
+2025-08-10 15:53:02, Info                  CSI    00000111 [SR] Verifying 100 components
+2025-08-10 15:53:02, Info                  CSI    00000112 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:04, Info                  CSI    00000113 [SR] Verify complete
+2025-08-10 15:53:05, Info                  CSI    00000114 [SR] Verifying 100 components
+2025-08-10 15:53:05, Info                  CSI    00000115 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:06, Info                  CSI    00000116 [SR] Verify complete
+2025-08-10 15:53:06, Info                  CSI    00000117 [SR] Verifying 100 components
+2025-08-10 15:53:06, Info                  CSI    00000118 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:08, Info                  CSI    00000119 [SR] Verify complete
+2025-08-10 15:53:08, Info                  CSI    0000011a [SR] Verifying 100 components
+2025-08-10 15:53:08, Info                  CSI    0000011b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:09, Info                  CSI    0000011c [SR] Verify complete
+2025-08-10 15:53:10, Info                  CSI    0000011d [SR] Verifying 100 components
+2025-08-10 15:53:10, Info                  CSI    0000011e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:11, Info                  CSI    0000011f [SR] Verify complete
+2025-08-10 15:53:12, Info                  CSI    00000120 [SR] Verifying 100 components
+2025-08-10 15:53:12, Info                  CSI    00000121 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:13, Info                  CSI    00000122 [SR] Verify complete
+2025-08-10 15:53:13, Info                  CSI    00000123 [SR] Verifying 100 components
+2025-08-10 15:53:13, Info                  CSI    00000124 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:15, Info                  CSI    00000125 [SR] Verify complete
+2025-08-10 15:53:15, Info                  CSI    00000126 [SR] Verifying 100 components
+2025-08-10 15:53:15, Info                  CSI    00000127 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:17, Info                  CSI    00000128 [SR] Verify complete
+2025-08-10 15:53:17, Info                  CSI    00000129 [SR] Verifying 100 components
+2025-08-10 15:53:17, Info                  CSI    0000012a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:19, Info                  CSI    0000012b [SR] Verify complete
+2025-08-10 15:53:19, Info                  CSI    0000012c [SR] Verifying 100 components
+2025-08-10 15:53:19, Info                  CSI    0000012d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:21, Info                  CSI    0000012e [SR] Verify complete
+2025-08-10 15:53:21, Info                  CSI    0000012f [SR] Verifying 100 components
+2025-08-10 15:53:21, Info                  CSI    00000130 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:23, Info                  CSI    00000131 [SR] Verify complete
+2025-08-10 15:53:23, Info                  CSI    00000132 [SR] Verifying 100 components
+2025-08-10 15:53:23, Info                  CSI    00000133 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:26, Info                  CSI    00000135 [SR] Verify complete
+2025-08-10 15:53:26, Info                  CSI    00000136 [SR] Verifying 100 components
+2025-08-10 15:53:26, Info                  CSI    00000137 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:29, Info                  CSI    00000139 [SR] Verify complete
+2025-08-10 15:53:29, Info                  CSI    0000013a [SR] Verifying 100 components
+2025-08-10 15:53:29, Info                  CSI    0000013b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:31, Info                  CSI    0000013d [SR] Verify complete
+2025-08-10 15:53:32, Info                  CSI    0000013e [SR] Verifying 100 components
+2025-08-10 15:53:32, Info                  CSI    0000013f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:33, Info                  CSI    00000140 [SR] Verify complete
+2025-08-10 15:53:33, Info                  CSI    00000141 [SR] Verifying 100 components
+2025-08-10 15:53:33, Info                  CSI    00000142 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:35, Info                  CSI    00000143 [SR] Verify complete
+2025-08-10 15:53:35, Info                  CSI    00000144 [SR] Verifying 100 components
+2025-08-10 15:53:35, Info                  CSI    00000145 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:37, Info                  CSI    00000147 [SR] Verify complete
+2025-08-10 15:53:37, Info                  CSI    00000148 [SR] Verifying 100 components
+2025-08-10 15:53:37, Info                  CSI    00000149 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:39, Info                  CSI    0000014a [SR] Verify complete
+2025-08-10 15:53:39, Info                  CSI    0000014b [SR] Verifying 100 components
+2025-08-10 15:53:39, Info                  CSI    0000014c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:41, Info                  CSI    0000014d [SR] Verify complete
+2025-08-10 15:53:41, Info                  CSI    0000014e [SR] Verifying 100 components
+2025-08-10 15:53:41, Info                  CSI    0000014f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:43, Info                  CSI    00000150 [SR] Verify complete
+2025-08-10 15:53:43, Info                  CSI    00000151 [SR] Verifying 100 components
+2025-08-10 15:53:43, Info                  CSI    00000152 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:46, Info                  CSI    00000153 [SR] Verify complete
+2025-08-10 15:53:47, Info                  CSI    00000154 [SR] Verifying 100 components
+2025-08-10 15:53:47, Info                  CSI    00000155 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:48, Info                  CSI    00000156 [SR] Verify complete
+2025-08-10 15:53:49, Info                  CSI    00000157 [SR] Verifying 100 components
+2025-08-10 15:53:49, Info                  CSI    00000158 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:50, Info                  CSI    00000159 [SR] Verify complete
+2025-08-10 15:53:50, Info                  CSI    0000015a [SR] Verifying 100 components
+2025-08-10 15:53:50, Info                  CSI    0000015b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:51, Info                  CSI    0000015c [SR] Verify complete
+2025-08-10 15:53:52, Info                  CSI    0000015d [SR] Verifying 100 components
+2025-08-10 15:53:52, Info                  CSI    0000015e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:53, Info                  CSI    0000015f [SR] Verify complete
+2025-08-10 15:53:54, Info                  CSI    00000160 [SR] Verifying 100 components
+2025-08-10 15:53:54, Info                  CSI    00000161 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:55, Info                  CSI    00000162 [SR] Verify complete
+2025-08-10 15:53:55, Info                  CSI    00000163 [SR] Verifying 100 components
+2025-08-10 15:53:55, Info                  CSI    00000164 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:57, Info                  CSI    00000165 [SR] Verify complete
+2025-08-10 15:53:57, Info                  CSI    00000166 [SR] Verifying 100 components
+2025-08-10 15:53:57, Info                  CSI    00000167 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:53:59, Info                  CSI    00000168 [SR] Verify complete
+2025-08-10 15:53:59, Info                  CSI    00000169 [SR] Verifying 100 components
+2025-08-10 15:53:59, Info                  CSI    0000016a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:01, Info                  CSI    0000016b [SR] Verify complete
+2025-08-10 15:54:01, Info                  CSI    0000016c [SR] Verifying 100 components
+2025-08-10 15:54:01, Info                  CSI    0000016d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:03, Info                  CSI    0000016e [SR] Verify complete
+2025-08-10 15:54:03, Info                  CSI    0000016f [SR] Verifying 100 components
+2025-08-10 15:54:03, Info                  CSI    00000170 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:05, Info                  CSI    00000171 [SR] Verify complete
+2025-08-10 15:54:05, Info                  CSI    00000172 [SR] Verifying 100 components
+2025-08-10 15:54:05, Info                  CSI    00000173 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:06, Info                  CSI    00000174 [SR] Verify complete
+2025-08-10 15:54:06, Info                  CSI    00000175 [SR] Verifying 100 components
+2025-08-10 15:54:06, Info                  CSI    00000176 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:07, Info                  CSI    00000177 [SR] Verify complete
+2025-08-10 15:54:08, Info                  CSI    00000178 [SR] Verifying 100 components
+2025-08-10 15:54:08, Info                  CSI    00000179 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:09, Info                  CSI    0000017a [SR] Verify complete
+2025-08-10 15:54:09, Info                  CSI    0000017b [SR] Verifying 100 components
+2025-08-10 15:54:09, Info                  CSI    0000017c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:11, Info                  CSI    0000017d [SR] Verify complete
+2025-08-10 15:54:11, Info                  CSI    0000017e [SR] Verifying 100 components
+2025-08-10 15:54:11, Info                  CSI    0000017f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:13, Info                  CSI    00000180 [SR] Verify complete
+2025-08-10 15:54:13, Info                  CSI    00000181 [SR] Verifying 100 components
+2025-08-10 15:54:13, Info                  CSI    00000182 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:14, Info                  CSI    00000183 [SR] Verify complete
+2025-08-10 15:54:14, Info                  CSI    00000184 [SR] Verifying 100 components
+2025-08-10 15:54:14, Info                  CSI    00000185 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:16, Info                  CSI    00000187 [SR] Verify complete
+2025-08-10 15:54:16, Info                  CSI    00000188 [SR] Verifying 100 components
+2025-08-10 15:54:16, Info                  CSI    00000189 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:17, Info                  CSI    0000018a [SR] Verify complete
+2025-08-10 15:54:18, Info                  CSI    0000018b [SR] Verifying 100 components
+2025-08-10 15:54:18, Info                  CSI    0000018c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:19, Info                  CSI    0000018d [SR] Verify complete
+2025-08-10 15:54:20, Info                  CSI    0000018e [SR] Verifying 100 components
+2025-08-10 15:54:20, Info                  CSI    0000018f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:21, Info                  CSI    00000190 [SR] Verify complete
+2025-08-10 15:54:21, Info                  CSI    00000191 [SR] Verifying 100 components
+2025-08-10 15:54:21, Info                  CSI    00000192 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:23, Info                  CSI    00000193 [SR] Verify complete
+2025-08-10 15:54:23, Info                  CSI    00000194 [SR] Verifying 100 components
+2025-08-10 15:54:23, Info                  CSI    00000195 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:25, Info                  CSI    00000196 [SR] Verify complete
+2025-08-10 15:54:25, Info                  CSI    00000197 [SR] Verifying 100 components
+2025-08-10 15:54:25, Info                  CSI    00000198 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:27, Info                  CSI    00000199 [SR] Verify complete
+2025-08-10 15:54:27, Info                  CSI    0000019a [SR] Verifying 100 components
+2025-08-10 15:54:27, Info                  CSI    0000019b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:29, Info                  CSI    0000019c [SR] Verify complete
+2025-08-10 15:54:29, Info                  CSI    0000019d [SR] Verifying 100 components
+2025-08-10 15:54:29, Info                  CSI    0000019e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:30, Info                  CSI    0000019f [SR] Verify complete
+2025-08-10 15:54:31, Info                  CSI    000001a0 [SR] Verifying 100 components
+2025-08-10 15:54:31, Info                  CSI    000001a1 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:48, Info                  CSI    000001ab [SR] Verify complete
+2025-08-10 15:54:48, Info                  CSI    000001ac [SR] Verifying 100 components
+2025-08-10 15:54:48, Info                  CSI    000001ad [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:51, Info                  CSI    000001af [SR] Verify complete
+2025-08-10 15:54:51, Info                  CSI    000001b0 [SR] Verifying 100 components
+2025-08-10 15:54:51, Info                  CSI    000001b1 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:55, Info                  CSI    000001b3 [SR] Verify complete
+2025-08-10 15:54:55, Info                  CSI    000001b4 [SR] Verifying 100 components
+2025-08-10 15:54:55, Info                  CSI    000001b5 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:56, Info                  CSI    000001b6 [SR] Verify complete
+2025-08-10 15:54:57, Info                  CSI    000001b7 [SR] Verifying 100 components
+2025-08-10 15:54:57, Info                  CSI    000001b8 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:58, Info                  CSI    000001b9 [SR] Verify complete
+2025-08-10 15:54:58, Info                  CSI    000001ba [SR] Verifying 100 components
+2025-08-10 15:54:58, Info                  CSI    000001bb [SR] Beginning Verify and Repair transaction
+2025-08-10 15:54:59, Info                  CSI    000001bc [SR] Verify complete
+2025-08-10 15:55:00, Info                  CSI    000001bd [SR] Verifying 100 components
+2025-08-10 15:55:00, Info                  CSI    000001be [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:01, Info                  CSI    000001bf [SR] Verify complete
+2025-08-10 15:55:01, Info                  CSI    000001c0 [SR] Verifying 100 components
+2025-08-10 15:55:01, Info                  CSI    000001c1 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:03, Info                  CSI    000001c2 [SR] Verify complete
+2025-08-10 15:55:03, Info                  CSI    000001c3 [SR] Verifying 100 components
+2025-08-10 15:55:03, Info                  CSI    000001c4 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:05, Info                  CSI    000001c5 [SR] Verify complete
+2025-08-10 15:55:05, Info                  CSI    000001c6 [SR] Verifying 100 components
+2025-08-10 15:55:05, Info                  CSI    000001c7 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:07, Info                  CSI    000001c8 [SR] Verify complete
+2025-08-10 15:55:07, Info                  CSI    000001c9 [SR] Verifying 100 components
+2025-08-10 15:55:07, Info                  CSI    000001ca [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:08, Info                  CSI    000001cb [SR] Verify complete
+2025-08-10 15:55:08, Info                  CSI    000001cc [SR] Verifying 100 components
+2025-08-10 15:55:08, Info                  CSI    000001cd [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:10, Info                  CSI    000001ce [SR] Verify complete
+2025-08-10 15:55:10, Info                  CSI    000001cf [SR] Verifying 100 components
+2025-08-10 15:55:10, Info                  CSI    000001d0 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:11, Info                  CSI    000001d1 [SR] Verify complete
+2025-08-10 15:55:12, Info                  CSI    000001d2 [SR] Verifying 100 components
+2025-08-10 15:55:12, Info                  CSI    000001d3 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:13, Info                  CSI    000001d4 [SR] Verify complete
+2025-08-10 15:55:13, Info                  CSI    000001d5 [SR] Verifying 100 components
+2025-08-10 15:55:13, Info                  CSI    000001d6 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:15, Info                  CSI    000001d7 [SR] Verify complete
+2025-08-10 15:55:15, Info                  CSI    000001d8 [SR] Verifying 100 components
+2025-08-10 15:55:15, Info                  CSI    000001d9 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:17, Info                  CSI    000001da [SR] Verify complete
+2025-08-10 15:55:17, Info                  CSI    000001db [SR] Verifying 100 components
+2025-08-10 15:55:17, Info                  CSI    000001dc [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:18, Info                  CSI    000001dd [SR] Verify complete
+2025-08-10 15:55:19, Info                  CSI    000001de [SR] Verifying 100 components
+2025-08-10 15:55:19, Info                  CSI    000001df [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:20, Info                  CSI    000001e0 [SR] Verify complete
+2025-08-10 15:55:20, Info                  CSI    000001e1 [SR] Verifying 100 components
+2025-08-10 15:55:20, Info                  CSI    000001e2 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:22, Info                  CSI    000001e3 [SR] Verify complete
+2025-08-10 15:55:22, Info                  CSI    000001e4 [SR] Verifying 100 components
+2025-08-10 15:55:22, Info                  CSI    000001e5 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:23, Info                  CSI    000001e6 [SR] Verify complete
+2025-08-10 15:55:23, Info                  CSI    000001e7 [SR] Verifying 100 components
+2025-08-10 15:55:23, Info                  CSI    000001e8 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:24, Info                  CSI    000001e9 [SR] Verify complete
+2025-08-10 15:55:25, Info                  CSI    000001ea [SR] Verifying 100 components
+2025-08-10 15:55:25, Info                  CSI    000001eb [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:26, Info                  CSI    000001ec [SR] Verify complete
+2025-08-10 15:55:27, Info                  CSI    000001ed [SR] Verifying 100 components
+2025-08-10 15:55:27, Info                  CSI    000001ee [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:28, Info                  CSI    000001ef [SR] Verify complete
+2025-08-10 15:55:29, Info                  CSI    000001f0 [SR] Verifying 100 components
+2025-08-10 15:55:29, Info                  CSI    000001f1 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:30, Info                  CSI    000001f2 [SR] Verify complete
+2025-08-10 15:55:31, Info                  CSI    000001f3 [SR] Verifying 100 components
+2025-08-10 15:55:31, Info                  CSI    000001f4 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:32, Info                  CSI    000001f5 [SR] Verify complete
+2025-08-10 15:55:32, Info                  CSI    000001f6 [SR] Verifying 100 components
+2025-08-10 15:55:32, Info                  CSI    000001f7 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:34, Info                  CSI    000001f8 [SR] Verify complete
+2025-08-10 15:55:34, Info                  CSI    000001f9 [SR] Verifying 100 components
+2025-08-10 15:55:34, Info                  CSI    000001fa [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:35, Info                  CSI    000001fb [SR] Verify complete
+2025-08-10 15:55:36, Info                  CSI    000001fc [SR] Verifying 100 components
+2025-08-10 15:55:36, Info                  CSI    000001fd [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:37, Info                  CSI    000001fe [SR] Verify complete
+2025-08-10 15:55:37, Info                  CSI    000001ff [SR] Verifying 100 components
+2025-08-10 15:55:37, Info                  CSI    00000200 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:39, Info                  CSI    00000201 [SR] Verify complete
+2025-08-10 15:55:39, Info                  CSI    00000202 [SR] Verifying 100 components
+2025-08-10 15:55:39, Info                  CSI    00000203 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:41, Info                  CSI    00000204 [SR] Verify complete
+2025-08-10 15:55:41, Info                  CSI    00000205 [SR] Verifying 100 components
+2025-08-10 15:55:41, Info                  CSI    00000206 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:43, Info                  CSI    00000207 [SR] Verify complete
+2025-08-10 15:55:43, Info                  CSI    00000208 [SR] Verifying 100 components
+2025-08-10 15:55:43, Info                  CSI    00000209 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:44, Info                  CSI    0000020a [SR] Verify complete
+2025-08-10 15:55:44, Info                  CSI    0000020b [SR] Verifying 100 components
+2025-08-10 15:55:44, Info                  CSI    0000020c [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:46, Info                  CSI    0000020d [SR] Verify complete
+2025-08-10 15:55:46, Info                  CSI    0000020e [SR] Verifying 100 components
+2025-08-10 15:55:46, Info                  CSI    0000020f [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:47, Info                  CSI    00000210 [SR] Verify complete
+2025-08-10 15:55:48, Info                  CSI    00000211 [SR] Verifying 100 components
+2025-08-10 15:55:48, Info                  CSI    00000212 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:49, Info                  CSI    00000213 [SR] Verify complete
+2025-08-10 15:55:49, Info                  CSI    00000214 [SR] Verifying 100 components
+2025-08-10 15:55:49, Info                  CSI    00000215 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:51, Info                  CSI    00000216 [SR] Verify complete
+2025-08-10 15:55:51, Info                  CSI    00000217 [SR] Verifying 100 components
+2025-08-10 15:55:51, Info                  CSI    00000218 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:53, Info                  CSI    00000219 [SR] Verify complete
+2025-08-10 15:55:53, Info                  CSI    0000021a [SR] Verifying 100 components
+2025-08-10 15:55:53, Info                  CSI    0000021b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:54, Info                  CSI    0000021c [SR] Verify complete
+2025-08-10 15:55:55, Info                  CSI    0000021d [SR] Verifying 100 components
+2025-08-10 15:55:55, Info                  CSI    0000021e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:56, Info                  CSI    0000021f [SR] Verify complete
+2025-08-10 15:55:56, Info                  CSI    00000220 [SR] Verifying 100 components
+2025-08-10 15:55:56, Info                  CSI    00000221 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:57, Info                  CSI    00000222 [SR] Verify complete
+2025-08-10 15:55:58, Info                  CSI    00000223 [SR] Verifying 100 components
+2025-08-10 15:55:58, Info                  CSI    00000224 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:55:59, Info                  CSI    00000225 [SR] Verify complete
+2025-08-10 15:55:59, Info                  CSI    00000226 [SR] Verifying 100 components
+2025-08-10 15:55:59, Info                  CSI    00000227 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:02, Info                  CSI    00000229 [SR] Verify complete
+2025-08-10 15:56:02, Info                  CSI    0000022a [SR] Verifying 100 components
+2025-08-10 15:56:02, Info                  CSI    0000022b [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:03, Info                  CSI    0000022c [SR] Verify complete
+2025-08-10 15:56:03, Info                  CSI    0000022d [SR] Verifying 100 components
+2025-08-10 15:56:03, Info                  CSI    0000022e [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:04, Info                  CSI    0000022f [SR] Verify complete
+2025-08-10 15:56:05, Info                  CSI    00000230 [SR] Verifying 100 components
+2025-08-10 15:56:05, Info                  CSI    00000231 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:06, Info                  CSI    00000232 [SR] Verify complete
+2025-08-10 15:56:06, Info                  CSI    00000233 [SR] Verifying 100 components
+2025-08-10 15:56:06, Info                  CSI    00000234 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:08, Info                  CSI    00000235 [SR] Verify complete
+2025-08-10 15:56:08, Info                  CSI    00000236 [SR] Verifying 100 components
+2025-08-10 15:56:08, Info                  CSI    00000237 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:10, Info                  CSI    00000238 [SR] Verify complete
+2025-08-10 15:56:10, Info                  CSI    00000239 [SR] Verifying 100 components
+2025-08-10 15:56:10, Info                  CSI    0000023a [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:11, Info                  CSI    0000023b [SR] Verify complete
+2025-08-10 15:56:11, Info                  CSI    0000023c [SR] Verifying 100 components
+2025-08-10 15:56:11, Info                  CSI    0000023d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:13, Info                  CSI    0000023e [SR] Verify complete
+2025-08-10 15:56:13, Info                  CSI    0000023f [SR] Verifying 100 components
+2025-08-10 15:56:13, Info                  CSI    00000240 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:14, Info                  CSI    00000241 [SR] Verify complete
+2025-08-10 15:56:14, Info                  CSI    00000242 [SR] Verifying 100 components
+2025-08-10 15:56:14, Info                  CSI    00000243 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:15, Info                  CSI    00000244 [SR] Verify complete
+2025-08-10 15:56:15, Info                  CSI    00000245 [SR] Verifying 100 components
+2025-08-10 15:56:15, Info                  CSI    00000246 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:17, Info                  CSI    00000247 [SR] Verify complete
+2025-08-10 15:56:17, Info                  CSI    00000248 [SR] Verifying 100 components
+2025-08-10 15:56:17, Info                  CSI    00000249 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:18, Info                  CSI    0000024b [SR] Verify complete
+2025-08-10 15:56:19, Info                  CSI    0000024c [SR] Verifying 100 components
+2025-08-10 15:56:19, Info                  CSI    0000024d [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:20, Info                  CSI    0000024e [SR] Verify complete
+2025-08-10 15:56:20, Info                  CSI    0000024f [SR] Verifying 42 components
+2025-08-10 15:56:20, Info                  CSI    00000250 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:21, Info                  CSI    00000251 [SR] Verify complete
+2025-08-10 15:56:21, Info                  CSI    00000252 [SR] Repairing 0 components
+2025-08-10 15:56:21, Info                  CSI    00000253 [SR] Beginning Verify and Repair transaction
+2025-08-10 15:56:21, Info                  CSI    00000254 [SR] Repair complete
+~0,4DTS:~4,2DTS:~6,2 15:56:24.88    Done.
+~0,4DTS:~4,2DTS:~6,2 15:56:24.93    Launch job 'chkdsk'...
+~0,4DTS:~4,2DTS:~6,2 15:56:24.96    Checking C: for errors...
+~0,4DTS:~4,2DTS:~6,2 15:56:53.06    No errors found on C:. Skipping full chkdsk at next reboot.
+~0,4DTS:~4,2DTS:~6,2 15:56:53.09    Done.
+~0,4DTS:~4,2DTS:~6,2 15:56:53.24    Launch job 'Kill Microsoft telemetry (user tracking) (Win10)'...
+~0,4DTS:~4,2DTS:~6,2 15:56:53.28    THIS TAKES A WHILE - BE PATIENT!!
+     Removing telemetry-related scheduled tasks...
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Application Experience\ProgramDataUpdater" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Autochk\Proxy" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\PI\Sqm-Tasks" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" ±»³É¹¦É¾³ı¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\Windows Error Reporting\QueueReporting" ±»³É¹¦É¾³ı¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\application experience\aitagent" ±»³É¹¦É¾³ı¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\maintenance\winsat" ±»³É¹¦É¾³ı¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+     Done.
+     Removing bad services, please wait...
+
+SERVICE_NAME: Diagtrack 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 3  STOP_PENDING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x3
+        WAIT_HINT          : 0x0
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] DeleteService ³É¹¦
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] ControlService Ê§°Ü 1062:
+
+·şÎñÉĞÎ´Æô¶¯¡£
+
+[SC] OpenService Ê§°Ü 1060:
+
+Ö¸¶¨µÄ·şÎñÎ´°²×°¡£
+
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ChangeServiceConfig ³É¹¦
+[SC] ChangeServiceConfig ³É¹¦
+[SC] OpenService Ê§°Ü 1060:
+
+Ö¸¶¨µÄ·şÎñÎ´°²×°¡£
+
+     Done.
+     Toggling official MS telemetry registry entries...
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+´íÎó: ÎŞĞ§Óï·¨¡£
+¼üÈë "REG ADD /?" ÁË½âÓÃ·¨ĞÅÏ¢¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+´íÎó: ¾Ü¾ø·ÃÎÊ¡£
+´íÎó: ¾Ü¾ø·ÃÎÊ¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+´íÎó: ¾Ü¾ø·ÃÎÊ¡£
+´íÎó: ¾Ü¾ø·ÃÎÊ¡£
+     Done.
+     Applying Spybot Anti-Beacon protections, please wait...
+     Done.
+     Applying OandOShutUp10 protections, please wait...
+²Ù×÷³É¹¦Íê³É¡£
+²Ù×÷³É¹¦Íê³É¡£
+     Done.
+     Null-routing bad hosts, please wait...
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÇı¶¯Æ÷¡£
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+ ²Ù×÷Íê³É!
+Â·ÓÉÌí¼ÓÊ§°Ü: ¶ÔÏóÒÑ´æÔÚ¡£
+
+ ²Ù×÷Íê³É!
+     Done.
+     Miscellaneous cleanup, please wait...
+´íÎó: Ã»ÓĞÕÒµ½½ø³Ì "gwx.exe"¡£
+Processing ACL of: <machine\software\microsoft\wcmsvc\wifinetworkmanager>
+Reading the SD from <machine\software\microsoft\wcmsvc\wifinetworkmanager> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\microsoft\wcmsvc\wifinetworkmanager>
+Reading the SD from <machine\software\microsoft\wcmsvc\wifinetworkmanager> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\microsoft\windows\currentversion\windowsupdate\auto update>
+Reading the SD from <machine\software\microsoft\windows\currentversion\windowsupdate\auto update> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\microsoft\windows\currentversion\windowsupdate\auto update>
+Reading the SD from <machine\software\microsoft\windows\currentversion\windowsupdate\auto update> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\microsoft\windows defender\spynet>
+Reading the SD from <machine\software\microsoft\windows defender\spynet> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\microsoft\windows defender\spynet>
+Reading the SD from <machine\software\microsoft\windows defender\spynet> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\policies\microsoft\windows\datacollection>
+
+SetACL finished successfully.
+Processing ACL of: <machine\software\policies\microsoft\windows\datacollection>
+
+SetACL finished successfully.
+Processing ACL of: <machine\software\policies\microsoft\windows\gwx>
+Reading the SD from <machine\software\policies\microsoft\windows\gwx> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\policies\microsoft\windows\gwx>
+Reading the SD from <machine\software\policies\microsoft\windows\gwx> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\policies\microsoft\windows\skydrive>
+Reading the SD from <machine\software\policies\microsoft\windows\skydrive> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+Processing ACL of: <machine\software\policies\microsoft\windows\skydrive>
+Reading the SD from <machine\software\policies\microsoft\windows\skydrive> failed with: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+     Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:19.42    Done. Enjoy your privacy.
+~0,4DTS:~4,2DTS:~6,2 15:57:19.51    Launch job 'Disable silent installation of 3rd-party apps'...
+~0,4DTS:~4,2DTS:~6,2 15:57:19.66    Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:19.72    Launch job 'Disable NVIDIA telemetry'...
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+´íÎó: ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+~0,4DTS:~4,2DTS:~6,2 15:57:20.93    Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:20.98    Launch job 'Network repair'...
+
+Windows IP ÅäÖÃ
+
+ÒÑ³É¹¦Ë¢ĞÂ DNS ½âÎö»º´æ¡£
+ç¡®å®šã€‚
+
+
+æˆåŠŸåœ°é‡ç½® Winsock ç›®å½•ã€‚
+ä½ å¿…é¡»é‡æ–°å¯åŠ¨è®¡ç®—æœºæ‰èƒ½å®Œæˆé‡ç½®ã€‚
+
+~0,4DTS:~4,2DTS:~6,2 15:57:22.59    Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:22.66    Launch job 'Repair file extensions'...
+~0,4DTS:~4,2DTS:~6,2 15:57:22.76    Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:22.79   stage_4_repair complete.
+~0,4DTS:~4,2DTS:~6,2 15:57:23.05   stage_5_patch begin...
+~0,4DTS:~4,2DTS:~6,2 15:57:26.08    Updating Windows Defender...
+Signature update started . . .
+Service Version: 4.18.25070.5
+Engine Version: 1.1.25070.4
+AntiSpyware Signature Version: 1.435.85.0
+AntiVirus Signature Version: 1.435.85.0
+Signature update finished. No updates needed
+~0,4DTS:~4,2DTS:~6,2 15:57:32.59    Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:32.68    Launch job 'Install Windows updates'...
+~0,4DTS:~4,2DTS:~6,2 15:57:32.71    Done.
+~0,4DTS:~4,2DTS:~6,2 15:57:32.75    Launch job 'DISM base reset'...
+ï»¿2025-08-10 15:57:32, Info                  DISM   PID=10880 TID=1848 Scratch directory set to 'C:\Users\cs201\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2025-08-10 15:57:32, Info                  DISM   PID=10880 TID=1848 DismCore.dll version: 10.0.26100.4652 - CDISMManager::FinalConstruct
+2025-08-10 15:57:32, Info                  DISM   Initialized Panther logging at C:\logs\tron\dism_base_reset.log
+2025-08-10 15:57:32, Info                  DISM   PID=10880 TID=1848 Successfully loaded the ImageSession at "C:\WINDOWS\system32\Dism" - CDISMManager::LoadLocalImageSession
+2025-08-10 15:57:32, Info                  DISM   Initialized Panther logging at C:\logs\tron\dism_base_reset.log
+2025-08-10 15:57:32, Info                  DISM   DISM Provider Store: PID=10880 TID=1848 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2025-08-10 15:57:32, Info                  DISM   Initialized Panther logging at C:\logs\tron\dism_base_reset.log
+2025-08-10 15:57:32, Info                  DISM   DISM Manager: PID=10880 TID=1848 Successfully created the local image session and provider store. - CDISMManager::CreateLocalImageSession
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: 
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: <----- Starting Dism.exe session ----->
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: 
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: Host machine information: OS Version=10.0.26100, Running architecture=amd64, Number of processors=4
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: Instance information: Parent process=C:\Windows\System32\cmd.exe, Parent process PID=3180
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: Dism.exe version: 10.0.26100.1150
+2025-08-10 15:57:32, Info                  DISM   DISM.EXE: Executing command line: Dism  /online /Cleanup-Image /StartComponentCleanup /ResetBase /Logpath:"C:\logs\tron\dism_base_reset.log" 
+2025-08-10 15:57:32, Info                  DISM   DISM Manager: PID=10880 TID=1848 physical location path: C:\ - CDISMManager::CreateImageSession
+2025-08-10 15:57:32, Info                  DISM   DISM Manager: PID=10880 TID=1848 Event name for current DISM session is Global\{DCF6B837-B787-4993-99E6-6BB5461258E0} - CDISMManager::CheckSessionAndLock
+2025-08-10 15:57:32, Info                  DISM   DISM Manager: PID=10880 TID=1848 Create session event 0x268 for current DISM session and event name is Global\{DCF6B837-B787-4993-99E6-6BB5461258E0}  - CDISMManager::CheckSessionAndLock
+2025-08-10 15:57:32, Info                  DISM   DISM Manager: PID=10880 TID=1848 Copying DISM from "C:\WINDOWS\System32\Dism" - CDISMManager::CreateImageSessionFromLocation
+2025-08-10 15:57:32, Info                  DISM   DISM Manager: PID=10880 TID=1848 No Sandbox was created, DISM running in-place. - CDISMManager::CreateImageSessionFromLocation
+2025-08-10 15:57:33, Info                  DISM   DISM Manager: PID=10880 TID=1848 Successfully loaded the ImageSession at "C:\WINDOWS\System32\Dism" - CDISMManager::LoadRemoteImageSession
+2025-08-10 15:57:33, Info                  DISM   DISM Image Session: PID=2756 TID=6312 Instantiating the Provider Store. - CDISMImageSession::get_ProviderStore
+2025-08-10 15:57:33, Info                  DISM   DISM OS Provider: PID=2756 TID=6312 Defaulting SystemPath to C:\ - CDISMOSServiceManager::Final_OnConnect
+2025-08-10 15:57:33, Info                  DISM   DISM OS Provider: PID=2756 TID=6312 Defaulting Windows folder to C:\Windows - CDISMOSServiceManager::Final_OnConnect
+2025-08-10 15:57:33, Info                  DISM   DISM Provider Store: PID=2756 TID=6312 Attempting to initialize the logger from the Image Session. - CDISMProviderStore::Final_OnConnect
+2025-08-10 15:57:33, Info                  DISM   Initialized Panther logging at C:\logs\tron\dism_base_reset.log
+2025-08-10 15:57:33, Info                  DISM   DISM Provider Store: PID=2756 TID=6312 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2025-08-10 15:57:33, Info                  DISM   Initialized Panther logging at C:\logs\tron\dism_base_reset.log
+2025-08-10 15:57:33, Info                  DISM   Initialized Panther logging at C:\logs\tron\dism_base_reset.log
+2025-08-10 15:57:33, Info                  DISM   DISM Manager: PID=10880 TID=1848 Image session successfully loaded from location: C:\WINDOWS\System32\Dism - CDISMManager::CreateImageSession
+2025-08-10 15:57:33, Info                  DISM   DISM.EXE: Target image information: OS Version=10.0.26100.4652, Image architecture=amd64
+2025-08-10 15:57:33, Info                  DISM   DISM.EXE: Image session version: 10.0.26100.1150
+2025-08-10 15:57:33, Info                  DISM   DISM Transmog Provider: PID=2756 TID=10888 Current image session is [ONLINE] - CTransmogManager::GetMode
+2025-08-10 15:57:33, Info                  DISM   DISM Transmog Provider: PID=2756 TID=10888 Audit Mode: [No] - CTransmogManager::Initialize
+2025-08-10 15:57:33, Info                  DISM   DISM Transmog Provider: PID=2756 TID=10888 GetProductType: ProductType = [WinNT] - CTransmogManager::GetProductType
+2025-08-10 15:57:33, Info                  DISM   DISM Transmog Provider: PID=2756 TID=10888 Product Type: [WinNT] - CTransmogManager::Initialize
+2025-08-10 15:57:33, Info                  DISM   DISM Transmog Provider: PID=2756 TID=10888 Product Type ServerNT : [No] - CTransmogManager::Initialize
+2025-08-10 15:57:33, Info                  DISM   DISM OS Provider: PID=2756 TID=10888 Determined System directory to be C:\Windows\System32 - CDISMOSServiceManager::get_SystemDirectory
+2025-08-10 15:57:33, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:57:33, Info                  DISM   DISM Driver Manager: PID=2756 TID=10888 Further logs for driver related operations can be found in the target operating system at %WINDIR%\inf\setupapi.offline.log - CDriverManager::Initialize
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=10888 Finished initializing the CbsConUI Handler. - CCbsConUIHandler::Initialize
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=10888 CBS is being initialized for online use. More information about CBS actions can be located at: %windir%\logs\CBS\CBS.log - CDISMPackageManager::Initialize
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=10888 Loaded servicing stack for online use. - CDISMPackageManager::CreateCbsSession
+2025-08-10 15:57:33, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=6312 Processing the top level command token(cleanup-image). - CPackageManagerCLIHandler::Private_ValidateCmdLine
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=6312 Attempting to route to appropriate command handler. - CPackageManagerCLIHandler::ExecuteCmdLine
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=6312 Routing the command... - CPackageManagerCLIHandler::ExecuteCmdLine
+2025-08-10 15:57:33, Info                  DISM   DISM Package Manager: PID=2756 TID=6312 CBS session options=0x10400100! - CDISMPackageManager::Internal_Finalize
+2025-08-10 15:59:41, Info                  CSI    00000001 Shim considered [l:123]'\??\C:\WINDOWS\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.4651_none_a510910d775cffb2\wcp.dll' : got STATUS_SUCCESS
+2025-08-10 15:59:41, Info                  DISM   DISM Package Manager: PID=2756 TID=6312 Finalizing CBS core. - CDISMPackageManager::Finalize
+2025-08-10 15:59:41, Info                  DISM   DISM Manager: PID=10880 TID=1848 Closing session event handle 0x268 - CDISMManager::CleanupImageSessionEntry
+2025-08-10 15:59:41, Info                  DISM   DISM.EXE: Image session has been closed. Reboot required=no.
+2025-08-10 15:59:41, Info                  DISM   DISM.EXE: 
+2025-08-10 15:59:41, Info                  DISM   DISM.EXE: <----- Ending Dism.exe session ----->
+2025-08-10 15:59:41, Info                  DISM   DISM.EXE: 
+~0,4DTS:~4,2DTS:~6,2 15:59:41.54    Done.
+~0,4DTS:~4,2DTS:~6,2 15:59:41.60   stage_5_patch complete.
+~0,4DTS:~4,2DTS:~6,2 15:59:41.78   stage_6_optimize begin...
+~0,4DTS:~4,2DTS:~6,2 15:59:41.81    Resetting page file settings to Windows defaults...
+'C:\WINDOWS\System32\wbem\wmic.exe' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
+»òÅú´¦ÀíÎÄ¼ş¡£
+~0,4DTS:~4,2DTS:~6,2 15:59:41.90    Done.
+~0,4DTS:~4,2DTS:~6,2 15:59:41.98    Launch job 'ngen .NET compilation'...
+Microsoft (R) CLR Native Image Generator - Version 4.8.9065.0
+Copyright (c) Microsoft Corporation.  All rights reserved.
+    Compiling assembly Accessibility, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly CustomMarshalers, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=amd64 (CLR v2.0.50727) ...
+CustomMarshalers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly Microsoft.Ink, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v2.0.50727) ...
+Microsoft.Ink, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.PowerShell.Commands.Diagnostics, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.PowerShell.Commands.Diagnostics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.VisualBasic, Version=8.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly Microsoft.WSMan.Management, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.WSMan.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly Microsoft.WSMan.Runtime, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+Microsoft.WSMan.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly srmlib, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v2.0.50727) ...
+srmlib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly System.Configuration, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly System.Configuration.Install, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+System.Configuration.Install, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly System.DirectoryServices, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly System.Management.Automation, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v2.0.50727) ...
+System.Management.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    Compiling assembly System.Runtime.Remoting, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil (CLR v2.0.50727) ...
+System.Runtime.Remoting, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    Compiling assembly System.ServiceProcess, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+System.ServiceProcess, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly System.Transactions, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=amd64 (CLR v2.0.50727) ...
+System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    Compiling assembly System.Web, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=amd64 (CLR v2.0.50727) ...
+System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Compiling assembly System.Web.Services, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil (CLR v2.0.50727) ...
+System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+1>    Compiling assembly AuditPolicyGPManagedStubs.Interop, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+2>    Compiling assembly EventViewer, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.ApplicationId.Framework, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.ApplicationId.RuleWizard, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.CertificateServices.PKIClient.Cmdlets, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.ConfigCI.Commands, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.Dtc.PowerShell, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.InternationalSettings.Commands, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly microsoft.isam.esent.interop, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly microsoft.isam.esent.interop.wsa, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.KeyDistributionService.Cmdlets, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.Management.Infrastructure, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.Management.Infrastructure.CimCmdlets, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Management.Infrastructure.Native, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.ManagementConsole, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.PowerShell.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.PowerShell.Cmdletization.OData, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.Commands.Diagnostics, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.PowerShell.Commands.Management, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.PowerShell.Commands.Utility, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.ConsoleHost, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.PowerShell.Core.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.Diagnostics.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.PowerShell.Editor, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.GPowerShell, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.PowerShell.GraphicalHost, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.PowerShell.ISECommon, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.PowerShell.Management.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.ScheduledJob, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.PowerShell.Security, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.Security.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.PowerShell.Utility.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.PowerShell.Workflow.ServiceCore, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.SecureBoot.Commands, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.Security.ApplicationId.PolicyManagement.Cmdlets, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Security.ApplicationId.PolicyManagement.PolicyEngineApi.Interop, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Security.ApplicationId.PolicyManagement.PolicyManager, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.Security.ApplicationId.PolicyManagement.PolicyModel, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.Security.ApplicationId.PolicyManagement.XmlHelper, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.Tpm.Commands, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.Windows.Diagnosis.Commands.GetDiagInput, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Windows.Diagnosis.Commands.UpdateDiagReport, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.Windows.Diagnosis.Commands.UpdateDiagRootcause, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.Windows.Diagnosis.Commands.WriteDiagProgress, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Windows.Diagnosis.Commands.WriteDiagTelemetry, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.Windows.Diagnosis.SDCommon, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.Windows.Diagnosis.SDEngine, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.Windows.Diagnosis.SDHost, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.Windows.Diagnosis.TroubleshootingPack, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly Microsoft.Windows.DSC.CoreConfProviders, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.WindowsAuthenticationProtocols.Commands, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=amd64 (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.WindowsSearch.Commands, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly Microsoft.WSMan.Management, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly Microsoft.WSMan.Management.Activities, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly Microsoft.WSMan.Runtime, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+3>    Compiling assembly MMCEx, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly MMCFxCommon, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly napinit, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly SecurityAuditPoliciesSnapIn, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+1>    Compiling assembly SrpUxSnapIn, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+2>    Compiling assembly System.Management.Automation, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+4>    Compiling assembly TaskScheduler, Version=10.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil (CLR v4.0.30319) ...
+~0,4DTS:~4,2DTS:~6,2 16:02:28.45    Done.
+~0,4DTS:~4,2DTS:~6,2 16:02:28.53    Launch job 'Defrag C:'...
+~0,4DTS:~4,2DTS:~6,2 16:02:29.39    Done.
+~0,4DTS:~4,2DTS:~6,2 16:02:29.41   stage_6_optimize complete.
+~0,4DTS:~4,2DTS:~6,2 16:02:29.57   stage_7_wrap-up begin...
+~0,4DTS:~4,2DTS:~6,2 16:02:29.59    Resetting Windows power settings to defaults and re-enabling screensaver...
+~0,4DTS:~4,2DTS:~6,2 16:02:29.73    Done.
+~0,4DTS:~4,2DTS:~6,2 16:02:29.75    Calculating post-run results for summary logs...
+~0,4DTS:~4,2DTS:~6,2 16:02:57.41    Done. Summary logs are at "C:\logs\tron\summary_logs\"
+~0,4DTS:~4,2DTS:~6,2 16:02:57.43    Saving misc logs to "C:\logs\tron\raw_logs\"...
+~0,4DTS:~4,2DTS:~6,2 16:02:57.48    Done.
+~0,4DTS:~4,2DTS:~6,2 16:02:57.53    Uninstalling Malwarebytes...
+~0,4DTS:~4,2DTS:~6,2 16:03:42.48    Done.
+~0,4DTS:~4,2DTS:~6,2 16:03:42.72   stage_7_wrap-up complete.
+~0,4DTS:~4,2DTS:~6,2 16:03:42.80    Doing miscellaneous clean up...
+~0,4DTS:~4,2DTS:~6,2 16:03:43.32    Done.
+~0,4DTS:~4,2DTS:~6,2 16:03:43.85   TRON RUN COMPLETE. Use \resources\stage_9_manual_tools if further action is required.
+~0,4DTS:~4,2DTS:~6,2 16:03:43.87   Auto-reboot (-r) not selected. Reboot as soon as possible.
+~0,4DTS:~4,2DTS:~6,2 16:03:44.00 ! WARNINGS were detected (yes_check_update_skipped). Recommend reviewing the log file.
+-------------------------------------------------------------------------------
+ Tron v12.0.8 (2025-01-09) complete
+                          Windows 10 Pro (AMD64)
+                          Executed as MS\cs201 on MS
+                          Command-line switches: 
+                          Time zone: 
+                          Safe Mode: no 
+                          Logfile: C:\logs\tron\tron.log
+                          Warnings detected?:   yes_check_update_skipped
+                          Debug logs uploaded?: no
+                          Free space before Tron run: 0 MB
+                          Free space after Tron run:  0 MB
+                          Disk space reclaimed:       0 MB *
+
+     * If you see negative disk space don't panic. Due to how some of Tron's
+       functions work, actual space reclaimed will not be visible until after
+       a reboot.
+-------------------------------------------------------------------------------
